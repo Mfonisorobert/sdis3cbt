@@ -1,267 +1,302 @@
 [
   {
-    "question": "What is the largest planet in our solar system?",
-    "options": ["Jupiter", "Earth", "Mars", "Saturn"],
-    "answer": "Jupiter"
+    "number": 1,
+    "question": "The group of people related by blood, marriage, or adoption is called a:",
+    "options": [ "Society",  "Family",  "Tribe",  "Community"],
+    "answer": "Family"
   },
   {
-    "question": "Which planet is known as the “RED PLANET”?",
-    "options": ["Neptune", "Mars", "Mercury", "Pluto"],
-    "answer": "Mars"
+    "number": 2,
+    "question": "A nuclear family is made up of:",
+    "options": [ "Father, mother, and children",  "Parents and grandparents",  "Uncles, aunts, and cousins",  "Only children"],
+    "answer": "Father, mother, and children"
   },
   {
-    "question": "What is in the center of our solar system?",
-    "options": ["The moon", "The galaxy", "The stars", "The sun"],
-    "answer": "The sun"
+    "number": 3,
+    "question": "Which of the following is a role of parents in the family?",
+    "options": [ "Doing homework",  "Providing food and shelter",  "Playing games",  "Watching TV"],
+    "answer": "Providing food and shelter"
   },
   {
-    "question": "Which planet is closest to the sun?",
-    "options": ["Pluto", "planet", "Mercury", "Venus"],
-    "answer": "Mercury"
+    "number": 4,
+    "question": "The duty of a child at home is to:",
+    "options": [ "Pay school fees",  "Wash dishes and tidy their room",  "Go to work",  "Punish siblings"],
+    "answer": "Wash dishes and tidy their room"
   },
   {
-    "question": "What is the largest moon in our solar system?",
-    "options": ["Ganymede", "orbiting moon", "Orbiting galaxy", "Orbiting planet"],
-    "answer": "Ganymede"
+    "number": 5,
+    "question": "Respect and obedience are examples of:",
+    "options": [ "Family roles",  "Family values",  "Family conflicts",  "Family size"],
+    "answer": "Family values"
   },
   {
-    "question": "How many planets are in the solar system?",
-    "options": ["7", "9", "8", "10"],
-    "answer": "8"
+    "number": 6,
+    "question": "A family that includes relatives like uncles, aunts, and grandparents is called a:",
+    "options": [ "Nuclear family",  "Extended family",  "Small family",  "Single-parent family"],
+    "answer": "Extended family"
   },
   {
-    "question": "Which planet has the most moons?",
-    "options": ["Jupiter", "Mars", "Venus", "Earth"],
-    "answer": "Jupiter"
+    "number": 7,
+    "question": "Showing love and care to each other in the family helps to promote:",
+    "options": [ "Conflict",  "Peace",  "Laziness",  "Disobedience"],
+    "answer": "Peace"
   },
   {
-    "question": "Which planet is known as the hottest?",
-    "options": ["Mercury", "Venus", "Jupiter", "Mars"],
-    "answer": "Venus"
+    "number": 8,
+    "question": "One of the roles of children at home is to:",
+    "options": [ "Make rules",  "Help with simple chores",  "Decide on family budget",  "Go to work"],
+    "answer": "Help with simple chores"
   },
   {
-    "question": "What is the process by which planets formed in our solar system?",
-    "options": ["Accretion", "acceleration", "momentum", "assimilation"],
-    "answer": "Accretion"
+    "number": 9,
+    "question": "The head of the family in most cultures is called the:",
+    "options": [ "Teacher",  "Parent",  "Leader",  "Father"],
+    "answer": "Father"
   },
   {
-    "question": "What is the farthest planet from the sun?",
-    "options": ["Neptune", "sun", "Venus", "Saturn"],
-    "answer": "Neptune"
+    "number": 10,
+    "question": "A family where only the mother or father lives with the children is called a:",
+    "options": [ "Child-headed family",  "Extended family",  "Single-parent family",  "Joint family"],
+    "answer": "Single-parent family"
   },
   {
-    "question": "The basic colours are called",
-    "options": ["secondary colours", "tertiary colours", "complimentary colours", "primary colours"],
-    "answer": "primary colours"
+    "number": 11,
+    "question": "What does loyalty primarily involve?",
+    "options": [ "Always agreeing with someone",  "Strong support or allegiance to a person or cause",  "Disagreeing openly",  "Keeping secrets from everyone"],
+    "answer": "Strong support or allegiance to a person or cause"
   },
   {
-    "question": "What colour is created by mixing blue and purple?",
-    "options": ["blue-purple", "yellow-purple", "green-purple", "purple-red"],
-    "answer": "blue-purple"
+    "number": 12,
+    "question": "Which of the following is a sign of loyalty?",
+    "options": [ "Betraying a friend’s trust",  "Speaking negatively behind someone’s back",  "Standing by someone during difficult times",  "Only supporting when things are good"],
+    "answer": "Standing by someone during difficult times"
   },
   {
-    "question": "What is the term for the colour wheel’s arrangement of primary, secondary and tertiary colours?",
-    "options": ["colour harmony", "colour decoration", "colour arrangement", "colour list"],
-    "answer": "colour harmony"
+    "number": 13,
+    "question": "Loyalty in a friendship means:",
+    "options": [ "Helping only when asked",  "Supporting your friend even when others don’t",  "Telling everyone your friend’s secrets",  "Ignoring your friend when they need help"],
+    "answer": "Supporting your friend even when others don’t"
   },
   {
-    "question": "What colour is created by mixing red and blue?",
-    "options": ["orange", "purple", "indigo", "violet"],
-    "answer": "purple"
+    "number": 14,
+    "question": "Which of these best describes disloyalty?",
+    "options": [ "Keeping promises",  "Being honest",  "Breaking trust",  "Offering help"],
+    "answer": "Breaking trust"
   },
   {
-    "question": "What are the three primary colours?",
-    "options": ["red, blue and yellow", "blue, purple and pink", "orange, yellow and red", "indigo, violet and red"],
-    "answer": "red, blue and yellow"
+    "number": 15,
+    "question": "A loyal employee is likely to:",
+    "options": [ "Talk badly about the company",  "Stay committed to their job",  "Start conflicts with coworkers",  "Ignore company rules"],
+    "answer": "Stay committed to their job"
   },
   {
-    "question": "Which ocean is the largest of the five major oceans?",
-    "options": ["Pacific Ocean", "Arctic Ocean", "Indian Ocean", "Southern Ocean"],
-    "answer": "Pacific Ocean"
+    "number": 16,
+    "question": "Which African proverb teaches about loyalty?",
+    "options": [ "One finger cannot pick up a grain",  "A loyal friend is worth more than a thousand relatives",  "A stitch in time saves nine",  "Make hay while the sun shines"],
+    "answer": "A loyal friend is worth more than a thousand relatives"
   },
   {
-    "question": "Which ocean is the smallest?",
-    "options": ["Southern Ocean", "Arctic Ocean", "Indian Ocean", "Pacific Ocean"],
-    "answer": "Arctic Ocean"
+    "number": 17,
+    "question": "Why is loyalty important in a group or organization?",
+    "options": [ "It creates conflict",  "It builds trust and unity",  "It encourages gossip",  "It reduces teamwork"],
+    "answer": "It builds trust and unity"
   },
   {
-    "question": "Which ocean surrounds Antarctica?",
-    "options": ["Indian Ocean", "Pacific Ocean", "Southern Ocean", "Asian Ocean"],
-    "answer": "Southern Ocean"
+    "number": 18,
+    "question": "Showing loyalty means:",
+    "options": [ "Always agreeing without question",  "Standing by what you believe is right",  "Changing sides for personal benefit",  "Refusing to take responsibility"],
+    "answer": "Always agreeing without question"
   },
   {
-    "question": "Which ocean is home to the Mariana Trench?",
-    "options": ["Pacific Ocean", "Indian Ocean", "Arctic Ocean", "North Ocean"],
-    "answer": "Pacific Ocean"
+    "number": 19,
+    "question": "What is the opposite of loyalty?",
+    "options": [ "Respect",  "Teamwork",  "Disloyalty",  "Generosity"],
+    "answer": "Disloyalty"
   },
   {
-    "question": "Which ocean calls to the Gulf Stream?",
-    "options": ["Egypt Ocean", "North Sea", "Red Sea", "Atlantic Ocean"],
-    "answer": "Atlantic Ocean"
+    "number": 20,
+    "question": "Being loyal to your country is called:",
+    "options": [ "Treason",  "Patriotism",  "Corruption",  "Nepotism"],
+    "answer": "Patriotism"
   },
   {
-    "question": "Where is the North Sea located?",
-    "options": ["Northern Europe", "Southern Europe", "Eastern Europe", "Western Europe"],
-    "answer": "Northern Europe"
+    "number": 21,
+    "question": "What does disloyalty mean?",
+    "options": [ "Being faithful and reliable",  "Showing strong support",  "Betraying someone's trust",  "Keeping promises"],
+    "answer": "Betraying someone's trust"
   },
   {
-    "question": "What is the economic importance of the North Sea?",
-    "options": [
-      "Sources of oil, gas and fish, also supports busy shipping lanes and tourism.",
-      "Sources of animal materials supply and exploration.",
-      "Sources of sufficient road network and telecommunication services.",
-      "Sources of natural resources exploration."
-    ],
-    "answer": "Sources of oil, gas and fish, also supports busy shipping lanes and tourism."
+    "number": 22,
+    "question": "Which of the following behaviors best shows disloyalty?",
+    "options": [ "Supporting a friend's decisions",  "Sharing a friend's secret without permission",  "Speaking positively about someone's efforts",  "Standing by a team during a loss"],
+    "answer": "Sharing a friend's secret without permission"
   },
   {
-    "question": "How can one maintain motivation for regular exercise?",
-    "options": ["Setting dissatisfaction", "Setting distraction", "Setting achievement goals", "Setting indecision plan"],
-    "answer": "Setting achievement goals"
+    "number": 23,
+    "question": "Disloyalty in a relationship may lead to:",
+    "options": [ "Trust and respect",  "Stronger understanding",  "Broken trust and hurt feelings",  "Better communication"],
+    "answer": "Broken trust and hurt feelings"
   },
   {
-    "question": "What can improve flexibility?",
-    "options": ["Irregular stretching of the body", "Regular stretching of the body", "Imbalance sleep", "Conditional stimuli"],
-    "answer": "Regular stretching of the body"
+    "number": 24,
+    "question": "Which proverb discourages disloyalty?",
+    "options": [ "Honesty is the best policy",  "Every man for himself",  "A friend in need is a friend indeed",  "Look before you leap"],
+    "answer": "Honesty is the best policy"
   },
   {
-    "question": "What is the importance of hydration in physical fitness?",
-    "options": ["Regulates body temperature", "Stability of eating exercise", "Imbalance memory", "Regaining strength"],
-    "answer": "Regaining strength"
+    "number": 25,
+    "question": "If an employee leaks their company's secret to competitors, that action is:",
+    "options": [ "Loyal",  "Disloyal",  "Respectful",  "Helpful"],
+    "answer": "Disloyal"
   },
   {
-    "question": "One of these is NOT a type of relay race.",
-    "options": ["4x500 relay", "4x400 relay", "4x100 relay", "medley relay"],
-    "answer": "4x500 relay"
-  },
-  {
-    "question": "A hollow cylinder of wood or plastic used in relay race is known as",
-    "options": ["staff", "baton", "mutton", "pole"],
-    "answer": "baton"
-  },
-  {
-    "question": "The following are techniques in relay race except",
-    "options": ["baton grip", "take-off", "Sliding off", "run-up"],
-    "answer": "Sliding off"
-  },
-  {
-    "question": "The objective of high jump is to try to",
-    "options": ["jump as low as possible", "jump as high as possible", "jump as long as possible", "jump as distance as possible"],
-    "answer": "jump as high as possible"
-  },
-  {
-    "question": "All of these are styles in high jump except",
-    "options": ["overhead roll", "western roll", "eastern roll", "the straddle"],
-    "answer": "overhead roll"
-  },
-  {
-    "question": "A set of physical activities that allows the body to respond or adapt to the need and stress of physical effort is referred to as",
-    "options": ["body conditioning", "physical fitness", "component alignment", "readiness exercise"],
-    "answer": "physical fitness"
-  },
-  {
-    "question": "The ability to stop, start, and change directions quickly indicates",
-    "options": ["power", "balance", "beam walk", "agility"],
-    "answer": "agility"
-  },
-  {
-    "question": "The process of preparing the body with exercises in readiness for sport activities that require much effort is known as",
-    "options": ["power", "agility", "body conditioning", "physical fit"],
-    "answer": "body conditioning"
-  },
-  {
-    "question": "Measurement of power include",
-    "options": [
-      "sergeant jump and standing board jump",
-      "agility and power",
-      "leaps vertically and beam walk",
-      "beam walk and standing order"
-    ],
-    "answer": "sergeant jump and standing board jump"
-  },
-  {
-    "question": "One of the benefits of agility, power, flexibility and balance is",
-    "options": ["reduce risk", "improves performance", "develop balance", "all of the above"],
-    "answer": "all of the above"
-  },
-  {
-    "question": "One of these best describes word processing.",
-    "options": [
-      "booting, shaping, storing and transferring",
-      "typing, editing, formatting, storing and printing",
-      "repairing, reshaping, editing and storing",
-      "formatting, teaching, elaborating and printing"
-    ],
-    "answer": "typing, editing, formatting, storing and printing"
-  },
-  {
-    "question": "The sun can be described as",
-    "options": ["giant galaxy", "giant moon", "giant lightening", "giant star"],
-    "answer": "giant star"
-  },
-  {
-    "question": "The world we live in is known as",
-    "options": ["earth", "sphere", "atmosphere", "biosphere"],
-    "answer": "earth"
-  },
-  {
-    "question": "The part of the earth where soil, rocks, plants and animals are found is known as",
-    "options": ["hydrosphere", "lithosphere", "atmosphere", "earth’s surface"],
-    "answer": "lithosphere"
-  },
-  {
-    "question": "The earth turns around its axis in a",
-    "options": ["circular form", "triangular form", "prism form", "rectangular form"],
-    "answer": "circular form"
-  },
-  {
-    "question": "Rotation of the earth brings about",
-    "options": ["day and night", "hotness and dryness", "evolutional density", "ecology clarification"],
-    "answer": "day and night"
-  },
-  {
-    "question": "All of the following is the uses of word processing EXCEPT",
-    "options": ["text formatting", "Text editing", "word enlightenment", "printing"],
-    "answer": "word enlightenment"
-  },
-  {
-    "question": "Word processing is easier and",
-    "options": ["faster", "slowest", "outlook", "format"],
-    "answer": "faster"
-  },
-  {
-    "question": "One example of word processing software is",
-    "options": ["Google Docs", "AbiWord", "Microsoft Word", "All of the above"],
+    "number": 26,
+    "question": "Disloyalty can destroy:",
+    "options": [ "Friendships and partnerships",  "Honesty",  "Confidence",  "All of the above"],
     "answer": "All of the above"
   },
   {
-    "question": "The most popular word processing application is",
-    "options": ["Pages", "OpenOffice", "WordPerfect", "Microsoft Word"],
-    "answer": "Microsoft Word"
+    "number": 27,
+    "question": "A disloyal student is one who:",
+    "options": [ "Encourages friends to study",  "Supports school activities",  "Cheats and hides the truth",  "Reports bullying to teachers"],
+    "answer": "Cheats and hides the truth"
   },
   {
-    "question": "The Lunar eclipse is also known as",
-    "options": ["satellite", "eclipse of the moon", "effects rotation", "galaxy"],
-    "answer": "eclipse of the moon"
+    "number": 28,
+    "question": "Which of the following is NOT a consequence of disloyalty?",
+    "options": [ "Loss of trust",  "Damage to reputation",  "Strengthened relationships",  "Loss of opportunities"],
+    "answer": "Strengthened relationships"
   },
   {
-    "question": "Galaxies are many stars held together by the force of gravity.",
-    "options": ["natural bodies", "maybe", "true", "uncertain"],
-    "answer": "true"
+    "number": 29,
+    "question": "Sharing confidential information without permission is most likely an example of:",
+    "options": [ "Responsibility",  "Leadership",  "Disloyalty",  "Creativity"],
+    "answer": "Disloyalty"
   },
   {
-    "question": "The biggest planet of the solar system is the",
-    "options": ["Jupiter", "Mercury", "Neptune", "Venus"],
-    "answer": "Jupiter"
+    "number": 30,
+    "question": "Disloyalty can be prevented by:",
+    "options": [ "Keeping promises",  "Gossiping often",  "Breaking commitments",  "Taking sides unfairly"],
+    "answer": "Keeping promises"
   },
   {
-    "question": "The round object that gives light to the earth is called",
-    "options": ["sun", "moon", "lightening", "thundering"],
-    "answer": "sun"
+    "number": 31,
+    "question": "What does “living together in peace” mean?",
+    "options": [ "Avoiding all interactions with others",  "Living without conflict and showing respect for others",  "Always agreeing on everything",  "Living alone to avoid problems"],
+    "answer": "Living without conflict and showing respect for others"
   },
   {
-    "question": "The moon is a large round object that travels",
-    "options": ["around the earth", "round the hemisphere", "around the ocean", "around space"],
-    "answer": "around the earth"
+    "number": 32,
+    "question": "Which of the following helps promote peaceful living?",
+    "options": [ "Fighting",  "Tolerance",  "Insulting others",  "Selfishness"],
+    "answer": "Tolerance"
+  },
+  {
+    "number": 33,
+    "question": "Peaceful coexistence means:",
+    "options": [ "Refusing to share",  "Respecting people of different backgrounds",  "Forcing others to think like you",  "Winning every argument"],
+    "answer": "Respecting people of different backgrounds"
+  },
+  {
+    "number": 34,
+    "question": "Which of these is a peaceful behavior at home or school?",
+    "options": [ "Yelling during a disagreement",  "Fighting for attention",  "Listening to others politely",  "Refusing to apologize"],
+    "answer": "Listening to others politely"
+  },
+  {
+    "number": 35,
+    "question": "What value is MOST needed for living together in peace?",
+    "options": [ "Jealousy",  "Greed",  "Tolerance",  "Anger"],
+    "answer": "Tolerance"
+  },
+  {
+    "number": 36,
+    "question": "A person who lives peacefully with others is likely to:",
+    "options": [ "Start trouble",  "Avoid communication",  "Show kindness and respect",  "Always get their own way"],
+    "answer": "Show kindness and respect"
+  },
+  {
+    "number": 37,
+    "question": "Which of the following hurts peaceful living?",
+    "options": [ "Cooperation",  "Understanding",  "Gossiping",  "Patience"],
+    "answer": "Gossiping"
+  },
+  {
+    "number": 38,
+    "question": "Which one is an example of conflict resolution?",
+    "options": [ "Shouting to end an argument",  "Ignoring the other person permanently",  "Discussing problems calmly and finding a solution",  "Blaming others always"],
+    "answer": "Discussing problems calmly and finding a solution"
+  },
+  {
+    "number": 39,
+    "question": "To live peacefully in a community, everyone should:",
+    "options": [ "Break rules often",  "Respect community laws and customs",  "Insult people from other cultures",  "Take from others without asking"],
+    "answer": "Respect community laws and customs"
+  },
+  {
+    "number": 40,
+    "question": "Which international day promotes the idea of ‘living together in peace’?",
+    "options": [ "World Water Day",  "International Day of Peace",  "Labour Day",  "World Food Day"],
+    "answer": "International Day of Peace"
+  },
+  {
+    "number": 41,
+    "question": "What are National Honours Awards?",
+    "options": [ "Awards given to only foreigners",  "Awards given to citizens and non-citizens for outstanding service to the nation",  "Sports trophies",  "Awards given only to children"],
+    "answer": "Awards given to citizens and non-citizens for outstanding service to the nation"
+  },
+  {
+    "number": 42,
+    "question": "Which agency or authority confers National Honours in Nigeria?",
+    "options": [ "The Chief Justice",  "The President",  "The Senate President",  "The Inspector General of Police"],
+    "answer": "The President"
+  },
+  {
+    "number": 43,
+    "question": "The highest National Honour in Nigeria is:",
+    "options": [ "OFR",  "MFR",  "GCFR",  "CFR"],
+    "answer": "GCFR"
+  },
+  {
+    "number": 44,
+    "question": "GCFR stands for:",
+    "options": [ "Grand Commander of the Federal Republic",  "General Commander of Federal Recognition",  "Grand Council of Federal Rights",  "General Chief of Federal Rule"],
+    "answer": "Grand Commander of the Federal Republic"
+  },
+  {
+    "number": 45,
+    "question": "Which of the following is NOT a category of National Honours in Nigeria?",
+    "options": [ "CFR",  "OFR",  "GCON",  "Nobel Prize"],
+    "answer": "Nobel Prize"
+  },
+  {
+    "number": 46,
+    "question": "Who usually receives the GCON award?",
+    "options": [ "Only students",  "Vice Presidents and Chief Justices",  "Foreigners only",  "Only athletes"],
+    "answer": "Vice Presidents and Chief Justices"
+  },
+  {
+    "number": 47,
+    "question": "Why are National Honours Awards given?",
+    "options": [ "To recognize individuals for outstanding contributions to the country",  "To punish citizens",  "To increase tax contributions",  "To replace salaries"],
+    "answer": "To recognize individuals for outstanding contributions to the country"
+  },
+  {
+    "number": 48,
+    "question": "Which of these National Honours is lower in rank?",
+    "options": [ "OFR",  "GCFR",  "GCON",  "CFR"],
+    "answer": "OFR"
+  },
+  {
+    "number": 49,
+    "question": "MFR stands for:",
+    "options": [ "Member of the Federal Republic",  "Master of Federal Rights",  "Manager of Fiscal Responsibility",  "Member of the Federal Revolution"],
+    "answer": "Member of the Federal Republic"
+  },
+  {
+    "number": 50,
+    "question": "National Honours Awards are usually given on:",
+    "options": [ "Independence Day",  "Democracy Day",  "Children’s Day", "New Year’s Day"],
+    "answer": "Democracy Day"
   }
 ]
