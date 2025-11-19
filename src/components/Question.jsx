@@ -5,26 +5,30 @@ const Question = ({ questionObj, questionIndex, selectedOption, handleOptionSele
 
 
 {/* This portion is only for questions that have instructions attached to it  */}
-          {/* {questionObj.instruction && (
+
+          {questionObj.instruction && (
   <p className="text-sm font-medium text-gray-600 mb-2 italic">
     {questionObj.instruction}
   </p>
-)} */}
+)}
+
 {/* It instructional questions ends here */}
 
 {/* This portion underlines the words */}
-{/* <span
+
+<span
   dangerouslySetInnerHTML={{
     __html: `${questionIndex + 1}. ${questionObj.question}`,
   }}
-/> */}
+/>
+
 {/* The underlining stops here */}
 
-          {questionIndex + 1}. {questionObj.question}
+          {/* {questionIndex + 1}. {questionObj.question} */}
 
           {/* This section is just for image */}
 
-          {questionObj.image && (
+          {/* {questionObj.image && (
   <div className="flex justify-center my-4">
     <img
       src={questionObj.image}
@@ -32,7 +36,7 @@ const Question = ({ questionObj, questionIndex, selectedOption, handleOptionSele
       className="max-w-xs rounded-lg shadow-md"
     />
   </div>
-)}
+)} */}
 
 {/* The image section ends here */}
 
