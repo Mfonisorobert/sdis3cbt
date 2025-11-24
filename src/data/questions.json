@@ -1,695 +1,534 @@
+
 [
-{
-  "questions": [
     {
       "number": 1,
-      "question": "Something is wrong with the school driver, he is _____ today.",
+      "question": "Social Studies can best be described as:",
       "options": [
-        "rather driving carelessly",
-        "carelessly driver rather",
-        "driving rather carelessly",
-        "rather carelessly driving"
+         "The study of plants and animals",
+         "The study of human beings and their environment",
+         "The study of rocks and minerals",
+         "The study of past kings"
       ],
-      "answer": "driving rather carelessly"
+      "answer": "The study of human beings and their environment"
     },
     {
       "number": 2,
-      "question": "The woman walked ______ fast that the little girl couldn’t catch up with her.",
+      "question": "The main aim of teaching Social Studies in schools is to:",
       "options": [
-        "too",
-        "very",
-        "so",
-        "quite"
+         "Train students to become historians",
+         "Help learners understand their society and live responsibly in it",
+         "Teach students only about other countries",
+         "Prepare students to become politicians"
       ],
-      "answer": "so"
+      "answer": "Help learners understand their society and live responsibly in it"
     },
     {
       "number": 3,
-      "question": "How did you arrive at ______ wonderful idea?",
+      "question": "Which of the following best describes the scope of Social Studies?",
       "options": [
-        "that a",
-        "such a",
-        "a such",
-        "that such"
+         "It covers only history and geography",
+         "It deals with man’s interaction with his physical and social environment",
+         "It studies animals in the forest",
+         "It is concerned only with government"
       ],
-      "answer": "such a"
+      "answer": "It studies animals in the forest"
     },
     {
       "number": 4,
-      "question": "It is most ______ that the company spent five million naira on that fragile fence.",
+      "question": "Social Studies was introduced into the Nigerian school curriculum mainly to:",
       "options": [
-        "outstanding",
-        "wonderful",
-        "remarkable",
-        "astonishing"
+         "Replace history",
+         "Promote national unity and development",
+         "Teach foreign cultures",
+         "Train lawyers"
       ],
-      "answer": "astonishing"
+      "answer": "Teach foreign cultures"
     },
     {
       "number": 5,
-      "question": "Many members of political parties ______ to opposing parties before elections.",
-      "options": [
-        "depart",
-        "defect",
-        "change",
-        "go"
+      "question": "The origin of Social Studies as a subject can be traced to which country?",
+      "options": ["Nigeria", "United States of America", "Ghana", "England"
       ],
-      "answer": "defect"
+      "answer": "United States of America"
     },
     {
       "number": 6,
-      "question": "The boy must have _______ the disease from the school.",
+      "question": "A primary social group can best be described as:",
       "options": [
-        "received",
-        "taken",
-        "contracted",
-        "carried"
+         "A large group where members do not know one another personally",
+         "A small group whose members have close and personal relationships",
+         "A group formed for business purposes only",
+         "A group found only in schools"
       ],
-      "answer": "contracted"
+      "answer": "A large group where members do not know one another personally"
     },
     {
       "number": 7,
-      "question": "I know it’s a secret, so I _______ tell anyone.",
+      "question": "The family is regarded as a primary social group because:",
       "options": [
-        "couldn’t",
-        "shan’t",
-        "needn’t",
-        "mightn’t"
+         "It is found in every country",
+         "Members relate closely and know one another well",
+         "It is the largest group in society",
+         "It is made up of strangers"
       ],
-      "answer": "shan’t"
+      "answer": "Members relate closely and know one another well"
     },
     {
       "number": 8,
-      "question": "The Supreme Court ______ the ruling of the court.",
-      "options": [
-        "nullified",
-        "abused",
-        "proclaimed",
-        "cancelled"
+      "question": "Which of the following is an example of a primary social group?",
+      "options": ["A football club", "A trade union", "A family", "A political party"
       ],
-      "answer": "nullified"
+      "answer": "A trade union"
     },
     {
       "number": 9,
-      "question": "They were given an ______ either to pay the rent or vacate the premises.",
+      "question": "One major characteristic of a primary social group is:",
       "options": [
-        "ultimatum",
-        "injunction",
-        "admonition",
-        "undertaking"
+         "Impersonal relationships",
+         "Close and face-to-face interaction",
+         "Temporary membership",
+         "Lack of cooperation"
       ],
-      "answer": "ultimatum"
+      "answer": "Close and face-to-face interaction"
     },
     {
       "number": 10,
-      "question": "The newly elected chairman has been _____ into office.",
+      "question": "Members of a primary social group usually:",
       "options": [
-        "sworn",
-        "installed",
-        "admitted",
-        "inaugurate"
+         "Belong for a short period",
+         "Share similar interests and values",
+         "Do not care about each other",
+         "Communicate only through letters"
       ],
-      "answer": "inaugurate"
+      "answer": "Do not care about each other"
     },
-    {
+{
       "number": 11,
-      "question": "The teacher, together with her students, ___ going on an excursion tomorrow.",
+      "question": "Which of the following is a function of the family?",
       "options": [
-        "are",
-        "were",
-        "is",
-        "be"
+         "Teaching children moral values",
+         "Conducting elections",
+         "Making laws for the country",
+         "Building roads"
       ],
-      "answer": "is"
+      "answer": "Teaching children moral values"
     },
     {
       "number": 12,
-      "question": "If I ___ rich, I would help the needy.",
+      "question": "The family performs the economic function by:",
       "options": [
-        "am",
-        "was",
-        "were",
-        "be"
+         "Sending children to school",
+         "Providing members with food, clothing, and shelter",
+         "Conducting religious worship",
+         "Celebrating festivals"
       ],
-      "answer": "am"
+      "answer": "Providing members with food, clothing, and shelter"
     },
     {
       "number": 13,
-      "question": "Neither the boy nor his friends ___ ready for the test.",
+      "question": "A small family is usually characterized by:",
       "options": [
-        "is",
-        "are",
-        "was",
-        "be"
+         "Many children",
+         "Easy management and better care for members",
+         "Insufficient resources",
+         "Poor living conditions"
       ],
-      "answer": "are"
+      "answer": "Easy management and better care for members"
     },
     {
       "number": 14,
-      "question": "The thief ran away ___ the police could catch him.",
+      "question": "Which of the following best describes a large family?",
       "options": [
-        "before",
-        "until",
-        "when",
-        "unless"
+         "A family with few members",
+         "A family that lives abroad",
+         "A family with many children and dependents",
+         "A family with only one parent"
       ],
-      "answer": "before"
+      "answer": "A family with many children and dependents"
     },
     {
       "number": 15,
-      "question": "She prefers tea ___ coffee.",
+      "question": "One common consequence of a large family is:",
       "options": [
-        "from",
-        "than",
-        "to",
-        "over"
+         "Better education for all children",
+         "Financial strain and inadequate attention",
+         "More comfort and luxury",
+         "Reduced social interaction"
       ],
-      "answer": "to"
+      "answer": "Financial strain and inadequate attention"
     },
     {
       "number": 16,
-      "question": "We shall continue the meeting ___ it starts raining.",
+      "question": "Culture can best be defined as:",
       "options": [
-        "though",
-        "unless",
-        "until",
-        "if"
+         "The way people dance in a community",
+         "The total way of life of a group of people",
+         "The language spoken by a particular tribe",
+         "The dressing pattern of people in a society"
       ],
-      "answer": "unless"
+      "answer": "The total way of life of a group of people"
     },
     {
       "number": 17,
-      "question": "I have not seen him ___ he left for Abuja.",
-      "options": [
-        "since",
-        "for",
-        "from",
-        "before"
+      "question": "Which of the following is a component of culture?",
+      "options": ["Money", "Education", "Language", "Roads"
       ],
-      "answer": "since"
+      "answer": "Language"
     },
     {
       "number": 18,
-      "question": "The child is too young ___ understand such matters.",
+      "question": "The material aspect of culture includes:",
       "options": [
-        "to",
-        "for",
-        "that",
-        "in order to"
+         "Beliefs and values",
+         "Customs and norms",
+         "Food, clothing, and buildings",
+         "Respect and honesty"
       ],
-      "answer": "to"
+      "answer": "Food, clothing, and buildings"
     },
     {
       "number": 19,
-      "question": "The manager demanded to know who ___ the report.",
+      "question": "The non-material aspect of culture refers to:",
       "options": [
-        "have written",
-        "has written",
-        "write",
-        "written"
+         "Things we can see and touch",
+         "Physical objects only",
+         "Beliefs, values, and moral conduct",
+         "Scientific inventions"
       ],
-      "answer": "has written"
+      "answer": "Beliefs, values, and moral conduct"
     },
     {
       "number": 20,
-      "question": "By this time next week, we ___ our final exams.",
+      "question": "One of the characteristics of culture is that:",
       "options": [
-        "will be writing",
-        "wrote",
-        "are writing",
-        "have written"
+         "It is the same all over the world",
+         "It changes from time to time",
+         "It is inherited through blood",
+         "It cannot be learned"
       ],
-      "answer": "will be writing"
-    }
-  ]
-},
-{
-  "questions": [
+      "answer": "It changes from time to time"
+    },
     {
       "number": 21,
-      "question": "Demonstrator — choose the option with the correct stress.",
+      "question": "Culture is transmitted from one generation to another through:",
       "options": [
-        "DEmonstrator",
-        "deMONstrator",
-        "demonSTRAtor",
-        "demonstraTOR"
+         "Education and socialization",
+         "Natural inheritance",
+         "Imitation of animals",
+         "Political campaigns"
       ],
-      "answer": "DEmonstrator"
+      "answer": "Education and socialization"
     },
     {
       "number": 22,
-      "question": "Presidency — choose the option with the correct stress.",
+      "question": "Which of the following statements is true about culture?",
       "options": [
-        "PREsidency",
-        "preSIdency",
-        "presiDENcy",
-        "presidenCY"
+         "Culture is static and never changes",
+         "Culture is dynamic and adaptable",
+         "Culture has no influence on people’s behavior",
+         "Culture is limited to only religious beliefs"
       ],
-      "answer": "PREsidency"
+      "answer": "Culture is dynamic and adaptable"
     },
     {
       "number": 23,
-      "question": "Diplomatic — choose the option with the correct stress.",
+      "question": "One importance of culture is that it:",
       "options": [
-        "DIplomatic",
-        "diPLOmatic",
-        "diploMAtic",
-        "diplomaTIC"
+         "Divides people into different groups",
+         "Helps people to understand and live peacefully with others",
+         "Makes people behave alike everywhere",
+         "Destroys old traditions"
       ],
-      "answer": "diploMAtic"
+      "answer": "Helps people to understand and live peacefully with others"
     },
     {
       "number": 24,
-      "question": "Technology — choose the option with the correct stress.",
+      "question": "Culture gives people a sense of identity because:",
       "options": [
-        "TECHnology",
-        "techNOlogy",
-        "technoLOgy",
-        "technoloGY"
+         "It shows who belongs to which family",
+         "It distinguishes one group of people from another",
+         "It allows everyone to dress alike",
+         "It promotes foreign habits"
       ],
-      "answer": "techNOlogy"
+      "answer": "It distinguishes one group of people from another"
     },
     {
       "number": 25,
-      "question": "Negotiation — choose the option with the correct stress.",
+      "question": "The study of culture helps individuals to:",
       "options": [
-        "NEgotiation",
-        "neGOtiation",
-        "negoTIAtion",
-        "negotiaTION"
+         "Disobey community rules",
+         "Reject their customs",
+         "Appreciate and respect their traditions",
+         "Forget their origin"
       ],
-      "answer": "negoTIAtion"
+      "answer": "Appreciate and respect their traditions"
     },
+
     {
       "number": 26,
-      "question": "Beneficial — choose the option with the correct stress.",
-      "options": [
-        "BENificial",
-        "benEficial",
-        "beneFIcial",
-        "benefiCIAL"
+      "question": "Civic Education teaches us to be good ___ in society.",
+      "options": ["Thieves", "Citizens", "Students", "Teachers"
       ],
-      "answer": "beneFIcial"
+      "answer": "Citizens"
     },
     {
       "number": 27,
-      "question": "Superstitious — choose the option with the correct stress.",
+      "question": "The main aim of Civic Education is to make people __ in their communities.",
       "options": [
-        "SUperstitious",
-        "suPERstitious",
-        "superSTItious",
-        "superstiTIOUS"
+         "Active and responsible",
+         "Irresponsible",
+         "Lazy",
+         "Dependent"
       ],
-      "answer": "superSTItious"
-    }
-  ]
-},
-{
-  "questions": [
+      "answer": "Active and responsible"
+    },
     {
       "number": 28,
-      "question": "Choose the word that has the same sound as the underlined part in 'Ob<u>e</u>y'.",
+      "question": "Civic Education helps students to know their ___.",
       "options": [
-        "plumber",
-        "tomb",
-        "rubber",
-        "comb"
+         "Friends",
+         "Enemies",
+         "Teachers",
+         "Rights and duties"
       ],
-      "answer": "rubber"
+      "answer": "Rights and duties"
     },
     {
       "number": 29,
-      "question": "Choose the word that has the same sound as the underlined part in '<u>F</u>lame'.",
+      "question": "One of the importance of Civic Education is to promote ___.",
       "options": [
-        "dough",
-        "pillar",
-        "psyche",
-        "photo"
+         "Corruption",
+         "Lawlessness",
+         "Good citizenship",
+         "Dishonesty"
       ],
-      "answer": "photo"
+      "answer": "Good citizenship"
     },
     {
       "number": 30,
-      "question": "Choose the word that has the same sound as the underlined part in '<u>G</u>et'.",
+      "question": "Civic Education is mainly concerned with ___.",
       "options": [
-        "ledger",
-        "germane",
-        "ghastly",
-        "neighbour"
+         "Personal hygiene",
+         "Government and citizenship",
+         "Mathematics",
+         "Physical health"
       ],
-      "answer": "germane"
+      "answer": "Government and citizenship"
     },
     {
       "number": 31,
-      "question": "Choose the word that has the same sound as the underlined part in 'An<u>ch</u>or'.",
+      "question": "National values are the things that a country considers ___.",
       "options": [
-        "cease",
-        "chaff",
-        "such",
-        "come"
+         "Expensive",
+         "Unnecessary",
+         "Important",
+         "Wrong"
       ],
-      "answer": "come"
+      "answer": "Important"
     },
     {
       "number": 32,
-      "question": "Choose the word that has the same sound as the underlined part in 'C<u>ar</u>ve'.",
+      "question": "One important national value is ___.",
       "options": [
-        "laugh",
-        "half",
-        "new",
-        "vein"
+         "Greed",
+         "Selfishness",
+         "Obedience",
+         "Laziness"
       ],
-      "answer": "laugh"
+      "answer": "Obedience"
     },
     {
       "number": 33,
-      "question": "Choose the word that has the same sound as the underlined part in '<u>U</u>nite'.",
+      "question": "Respect for national symbols is a sign of ___.",
       "options": [
-        "untie",
-        "uncover",
-        "you",
-        "until"
+         "Disrespect",
+         "Patriotism",
+         "Pride",
+         "Anger"
       ],
-      "answer": "you"
+      "answer": "Patriotism"
     },
     {
       "number": 34,
-      "question": "Choose the word that has the same sound as the underlined part in 'T<u>ou</u>gh'.",
+      "question": "Which of the following is a national value?",
       "options": [
-        "though",
-        "dough-nut",
-        "plough",
-        "offer"
+         "Stealing",
+         "Integrity",
+         "Cheating",
+         "Fraud"
       ],
-      "answer": "offer"
+      "answer": "Integrity"
     },
     {
       "number": 35,
-      "question": "Choose the word that has the same sound as the underlined part in '<u>P</u>arent'.",
+      "question": "National values help to build a ___.",
       "options": [
-        "pious",
-        "physics",
-        "psalm",
-        "corps"
+         "Peaceful and united country",
+         "Weak nation",
+         "Divided nation",
+         "Poor country"
       ],
-      "answer": "pious"
-    }
-  ]
-},
-{  "instruction": "Fill in the gaps with the correct form of auxiliary verbs.",
-  "questions": [
+      "answer": "Peaceful and united country"
+    },
     {
       "number": 36,
-      "question": "I fell asleep in the train and was ______ to Kano.",
+      "question": "Honesty means being ___.",
       "options": [
-        "taken",
-        "taking",
-        "being taken",
-        "took"
+         "Truthful",
+         "Corrupt",
+         "Jealous",
+         "Deceptive"
       ],
-      "answer": "taken"
+      "answer": "Truthful"
     },
     {
       "number": 37,
-      "question": "My pencil ______ stolen before I woke up.",
+      "question": "An honest person always says the ___.",
       "options": [
-        "have been",
-        "had been",
-        "has been",
-        "is been"
+         "Lies",
+         "Truth",
+         "Wrong thing",
+         "Opposite"
       ],
-      "answer": "had been"
+      "answer": "Truth"
     },
     {
       "number": 38,
-      "question": "Audu says that he ______ up at 6:00am every morning.",
+      "question": "Honesty promotes ___ in society.",
       "options": [
-        "has woken",
-        "wake",
-        "wakes",
-        "woke"
+         "Hatred",
+         "Dishonesty",
+         "Confusion",
+         "Trust"
       ],
-      "answer": "wakes"
+      "answer": "Trust"
     },
     {
       "number": 39,
-      "question": "I _____ that you were upset.",
+      "question": "A good example of honesty is ___.",
       "options": [
-        "knew",
-        "knows",
-        "known",
-        "know"
+         "Cheating in exams",
+         "Taking what is not yours",
+         "Lying to friends",
+         "Returning a lost wallet"
       ],
-      "answer": "knew"
+      "answer": "Returning a lost wallet"
     },
     {
       "number": 40,
-      "question": "The man left the office at 5:00pm after he _____ writing his report.",
+      "question": "One of the rewards of honesty is ___.",
       "options": [
-        "finishes",
-        "had finished",
-        "has finished",
-        "have finished"
+         "Punishment",
+         "Anger",
+         "Hatred",
+         "Respect"
       ],
-      "answer": "had finished"
-    }
-  ]
-},
-{
-"Instruction" : "From the words lettered A to D below each of the following sentences, choose the word or group of words that is NEAREST IN MEANING to the underlined expression as it is used in the sentence.",
-  "questions": [
+      "answer": "Punishment"
+    },
     {
       "number": 41,
-      "question": "Mamie complains that her husband often <u>relegates</u> her to the position of a housemaid.",
+      "question": "Dishonesty means ___.",
       "options": [
-        "compares",
-        "relates",
-        "forces",
-        "reduces"
+         "Truthfulness",
+         "Lying or cheating",
+         "Being humble",
+         "Being kind"
       ],
-      "answer": "reduces"
+      "answer": "Lying or cheating"
     },
     {
       "number": 42,
-      "question": "There is no <u>vacancy</u>, so the company no longer recruits staff.",
+      "question": "Which of the following is an example of dishonesty?",
       "options": [
-        "position",
-        "opening",
-        "room",
-        "place"
+         "Keeping promises",
+         "Paying debts",
+         "Cheating in exams",
+         "Helping others"
       ],
-      "answer": "opening"
+      "answer": "Cheating in exams"
     },
     {
       "number": 43,
-      "question": "The police could not <u>apprehend</u> all the gamblers.",
+      "question": "Dishonesty destroys ___.",
       "options": [
-        "charge",
-        "interrogate",
-        "arrest",
-        "prosecute"
+         "Trust",
+         "Unity",
+         "Faith",
+         "All of the above"
       ],
-      "answer": "arrest"
+      "answer": "All of the above"
     },
     {
       "number": 44,
-      "question": "The principal <u>endorsed</u> my travelling documents without delay.",
+      "question": "A dishonest person is usually ___.",
       "options": [
-        "corrected",
-        "checked",
-        "reviewed",
-        "approved"
+         "Respected",
+         "Avoided",
+         "Promoted",
+         "Trusted"
       ],
-      "answer": "approved"
+      "answer": "Avoided"
     },
     {
       "number": 45,
-      "question": "I think his essay is <u>impeccable.</u>",
+      "question": "One of the effects of dishonesty is ___.",
       "options": [
-        "erroneous",
-        "correct",
-        "satisfactory",
-        "faultless"
+         "Trust among people",
+         "Happiness",
+         "Promotion",
+         "Loss of reputation"
       ],
-      "answer": "faultless"
+      "answer": "Loss of reputation"
     },
     {
       "number": 46,
-      "question": "That rock is a <u>potential</u> danger to fishing boats.",
-      "options": [
-        "possible",
-        "unexpected",
-        "obvious",
-        "serious"
-      ],
-      "answer": "possible"
-    }
-  ]
-},
-{
- "instruction": "From the words lettered A to D below each of the following sentences, choose the word or group of words that is OPPOSITE IN MEANING to the underlined expression as it is used in the sentence.",
-   "questions": [
+      "question": "Cooperation means working together to achieve a common ___.",
+      "options": ["Goal", "Problem", "Conflict", "Secret"],
+      "answer": "Goal"
+    },
     {
       "number": 47,
-      "question": "The crops the farmer <u>planted</u> were ______ by some naughty boys.",
+      "question": "An example of cooperation at home is ___.",
       "options": [
-        "sowed",
-        "weeded",
-        "destroyed",
-        "uprooted"
+         "Fighting with siblings",
+         "Helping parents with chores",
+         "Refusing to help others",
+         "Quarreling"
       ],
-      "answer": "uprooted"
+      "answer": "Helping parents with chores"
     },
     {
       "number": 48,
-      "question": "Last night, uncle Joe was <u>blind</u> drunk but this morning he is as _______ as a judge.",
+      "question": "Cooperation in school helps to promote ___.",
       "options": [
-        "alert",
-        "saintly",
-        "strong",
-        "sober"
+         "Friendship and unity",
+         "Hatred",
+         "Laziness",
+         "Cheating"
       ],
-      "answer": "alert"
+      "answer": "Friendship and unity"
     },
     {
       "number": 49,
-      "question": "The leader denied that he held very <u>rigid</u> opinions and mentioned instances when he had been ______.",
+      "question": "Self-reliance means being able to ___.",
       "options": [
-        "tolerant",
-        "compromising",
-        "friendly",
-        "flexible"
+         "Depend on others",
+         "Borrow always",
+         "Depend on oneself",
+         "Beg"
       ],
-      "answer": "flexible"
+      "answer": "Depend on oneself"
     },
     {
       "number": 50,
-      "question": "The old car is <u>durable</u> while the new one looks",
+      "question": "A self-reliant person is one who ___.",
       "options": [
-        "haggard",
-        "fragile",
-        "strong",
-        "unreliable"
+         "Works hard and uses their skills",
+         "Waits for others to help",
+         "Is lazy",
+         "Blames others for failure"
       ],
-      "answer": "fragile"
-    },
-    {
-      "number": 51,
-      "question": "A bank clerk should be able to tell easily the difference between ______ notes and <u>counterfeit</u> ones.",
-      "options": [
-        "crisp",
-        "good",
-        "correct",
-        "genuine"
-      ],
-      "answer": "genuine"
-    },
-    {
-      "number": 52,
-      "question": "Most people thought the accused would be <u>convicted</u> but surprisingly, he was _______.",
-      "options": [
-        "acquitted",
-        "released",
-        "sentenced",
-        "jailed"
-      ],
-      "answer": "acquitted"
+      "answer": "Works hard and uses their skills"
     }
   ]
-},
-{
-  "instruction": "From the words lettered A to D choose the option that best suits the sentences below.",
-  "questions": [
-    {
-      "number": 53,
-      "question": "All the final year students will attend ____ party.",
-      "options": [
-        "tomorrow’s",
-        "tomorrows’",
-        "tomorrows",
-        "tomorrow"
-      ],
-      "answer": "tomorrow’s"
-    },
-    {
-      "number": 54,
-      "question": "You have the ______ to remain silent.",
-      "options": [
-        "rite",
-        "write",
-        "right",
-        "wright"
-      ],
-      "answer": "right"
-    },
-    {
-      "number": 55,
-      "question": "This isn’t your ring, it is your ______.",
-      "options": [
-        "daughter-in-law",
-        "daughter-in-law’s",
-        "daughters-in-law",
-        "daughter-in-laws"
-      ],
-      "answer": "daughter-in-law’s"
-    },
-    {
-      "number": 56,
-      "question": "I guess he holds _____ sensitize position in the company.",
-      "options": [
-        "some kind",
-        "many kind of",
-        "some kind of",
-        "many kind"
-      ],
-      "answer": "some kind of"
-    },
-    {
-      "number": 57,
-      "question": "The principal will come back in ______ time.",
-      "options": [
-        "two week’s",
-        "two week",
-        "two weeks",
-        "two weeks’"
-      ],
-      "answer": "two weeks’"
-    },
-    {
-      "number": 58,
-      "question": "The judge restrained the landlord from _____ the tenant.",
-      "options": [
-        "ejecting",
-        "sacking",
-        "dismissing",
-        "punishing"
-      ],
-      "answer": "ejecting"
-    },
-    {
-      "number": 59,
-      "question": "The politician ran to another country to seek _____.",
-      "options": [
-        "refuge",
-        "safeguard",
-        "retreat",
-        "safety"
-      ],
-      "answer": "refuge"
-    },
-    {
-      "number": 60,
-      "question": "Many players have complained about biase ____ by referees.",
-      "options": [
-        "officiating",
-        "control",
-        "direction",
-        "handling"
-      ],
-      "answer": "officiating"
-    }
-  ]
-}
-]
-
 
