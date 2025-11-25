@@ -3,302 +3,302 @@
       "number": 1,
       "question": "The computing devices invented by Charles Babbage are?",
       "options": ["Abacus and difference engine", "Abacus and slide rule", "Analytical and difference engine", "Slide rule and analytical engine"],
-      "answer_value": "Analytical and difference engine"
+      "answer": "Analytical and difference engine"
     },
     {
       "number": 2,
       "question": "The Census machine was invented by?",
       "options": ["Blaise Pascal", "Gottfried Leibnitz", "Herman Hollerith", "Joseph Jacquard"],
-      "answer_value": "Herman Hollerith"
+      "answer": "Herman Hollerith"
     },
     {
       "number": 3,
       "question": "Once you load the suitable program and provide the required data, the computer does not need human intervention. This feature is known as?",
       "options": ["Accuracy", "Reliability", "Versatility", "Automation"],
-      "answer_value": "Automation"
+      "answer": "Automation"
     },
     {
       "number": 4,
       "question": "Who is credited with the idea of using punch cards to control patterns in a weaving machine?",
       "options": ["Pascal", "Hollerith", "Babbage", "Jacquard"],
-      "answer_value": "Jacquard"
+      "answer": "Jacquard"
     },
     {
       "number": 5,
       "question": "Which of the following is not the function of the mouse?",
       "options": ["Clicking", "Pointing", "Pumping", "Dragging"],
-      "answer_value": "Pumping"
+      "answer": "Pumping"
     },
     {
       "number": 6,
       "question": "What is the name of the main computer hardware that accommodates other accessories?",
       "options": ["Printer", "Monitor", "System unit", "Motherboard"],
-      "answer_value": "System unit"
+      "answer": "System unit"
     },
     {
       "number": 7,
       "question": "Which of these devices can serve as an input and output device?",
       "options": ["Touchpad", "Stylus", "Touch screen", "Printer"],
-      "answer_value": "Touch screen"
+      "answer": "Touch screen"
     },
     {
       "number": 8,
       "question": "Which of the following is not an output device?",
       "options": ["Stylus", "Projector", "Printer", "Speaker"],
-      "answer_value": "Stylus"
+      "answer": "Stylus"
     },
     {
       "number": 9,
       "question": "A computer can solve more than one kind of problem. Which of the following characteristics is this related to?",
       "options": ["Accuracy", "Reliability", "Versatility", "Automation"],
-      "answer_value": "Automation"
+      "answer": "Automation"
     },
     {
       "number": 10,
       "question": "Which of the following machines was not invented by Charles Babbage?",
       "options": ["Tabulating Machine", "Analytical Engine", "Difference Engine", "All of the above"],
-      "answer_value": "Tabulating Machine"
+      "answer": "Tabulating Machine"
     },
     {
       "number": 11,
       "question": "An input device that allows anyone connected to the Internet to view still pictures or motion video is called?",
       "options": ["Digital camera", "Webcam", "OCR", "Monitor"],
-      "answer_value": "Webcam"
+      "answer": "Webcam"
     },
     {
       "number": 12,
       "question": "One computer that is not considered portable is?",
       "options": ["Palmtop", "Laptop computer", "Notebook computer", "Desktop"],
-      "answer_value": "Desktop"
+      "answer": "Desktop"
     },
     {
       "number": 13,
       "question": "A paper printout of a document is known as?",
       "options": ["Softcopy output", "Hardcopy output", "Permanent Output", "All of above"],
-      "answer_value": "Hardcopy output"
+      "answer": "Hardcopy output"
     },
     {
       "number": 14,
       "question": "The full meaning of ENIAC is?",
       "options": ["Electronic Number Information Access Computer", "Electrical Numerical Industrial and Communication", "Electronic Numerical Integrator and Computer", "Economic Numerical Information and Control"],
-      "answer_value": "Electronic Numerical Integrator and Computer"
+      "answer": "Electronic Numerical Integrator and Computer"
     },
     {
       "number": 15,
       "question": "An output device that projects a large display onto a flat surface is called?",
       "options": ["Monitor", "Projector", "Printer", "Speaker"],
-      "answer_value": "Projector"
+      "answer": "Projector"
     },
     {
       "number": 16,
       "question": "One machine used to process census information in the U.S.A. in 1890 is?",
       "options": ["Herman Hollerith Machine", "Jacquard’s Loom", "Pascaline", "Gottfried Leibnitz"],
-      "answer_value": "Herman Hollerith Machine"
+      "answer": "Herman Hollerith Machine"
     },
     {
       "number": 17,
       "question": "A hard copy would be prepared on a?",
       "options": ["Monitor", "Printer", "Keyboard", "Joystick"],
-      "answer_value": "Printer"
+      "answer": "Printer"
     },
     {
       "number": 18,
       "question": "The only language a microprocessor understands is?",
       "options": ["Computer language", "Machine language", "Assembly language", "Translator"],
-      "answer_value": "Machine language"
+      "answer": "Machine language"
     },
     {
       "number": 19,
       "question": "Word processing, spreadsheet, and graphic packages are examples of?",
       "options": ["Operating system", "System software", "Application software", "Utility software"],
-      "answer_value": "Application software"
+      "answer": "Application software"
     },
     {
       "number": 20,
       "question": "The programming language readable to human beings is called?",
       "options": ["Assembly language", "Machine language", "High-level language", "All of the above"],
-      "answer_value": "High-level language"
+      "answer": "High-level language"
     },
 
     {
       "number": 21,
       "question": "Which of the following is not the function of the mouse?",
       "options": ["Clicking", "Pointing", "Pumping", "Dragging"],
-      "answer_value": "Pumping"
+      "answer": "Pumping"
     },
     {
       "number": 22,
       "question": "Hardware connected to the system unit is called?",
       "options": ["CPU", "Monitor", "Peripherals", "Motherboard"],
-      "answer_value": "Peripherals"
+      "answer": "Peripherals"
     },
     {
       "number": 23,
       "question": "Which of the following did not contribute to computer development?",
       "options": ["Blaise Pascal", "Joseph Jacquard", "Isaac Newton", "Gottfried Leibnitz"],
-      "answer_value": "Isaac Newton"
+      "answer": "Isaac Newton"
     },
     {
       "number": 24,
       "question": "All are audio output devices except?",
       "options": ["Headphones", "Monitor", "Earbuds", "Speakers"],
-      "answer_value": "Monitor"
+      "answer": "Monitor"
     },
     {
       "number": 25,
       "question": "One major problem with early counting devices is that?",
       "options": ["They occupy small space", "They waste time", "They can be used to count large numbers", "They were fast"],
-      "answer_value": "They waste time"
+      "answer": "They waste time"
     },
     {
       "number": 26,
       "question": "Integrated Circuits (ICs) are related to which generation of computers?",
       "options": ["First generation", "Second generation", "Third generation", "Fourth generation"],
-      "answer_value": "Third generation"
+      "answer": "Third generation"
     },
     {
       "number": 27,
       "question": "Microprocessors are for which generation of computers?",
       "options": ["First Generation", "Second Generation", "Third Generation", "Fourth Generation"],
-      "answer_value": "Fourth Generation"
+      "answer": "Fourth Generation"
     },
     {
       "number": 28,
       "question": "Which generation of computers is still under development?",
       "options": ["Fourth Generation", "Fifth Generation", "Sixth Generation", "Seventh Generation"],
-      "answer_value": "Fifth Generation"
+      "answer": "Fifth Generation"
     },
     {
       "number": 29,
       "question": "Who used punch cards to control patterns in a weaving machine?",
       "options": ["John Von Neumann", "Joseph Marie Jacquard", "Blaise Pascal", "Gottfried Leibniz"],
-      "answer_value": "Joseph Marie Jacquard"
+      "answer": "Joseph Marie Jacquard"
     },
     {
       "number": 30,
       "question": "Third-generation computers were made from?",
       "options": ["Vacuum tubes", "Transistors", "Integrated circuit", "Punched card"],
-      "answer_value": "Integrated circuit"
+      "answer": "Integrated circuit"
     },
     {
       "number": 31,
       "question": "Which machine processed census information in the U.S.A. in 1890?",
       "options": ["Herman Hollerith Machine", "Jacquard’s Loom", "Pascaline", "Gottfried Leibnitz"],
-      "answer_value": "Herman Hollerith Machine"
+      "answer": "Herman Hollerith Machine"
     },
     {
       "number": 32,
       "question": "Which of the following is an early counting device?",
       "options": ["Pebbles", "Abacus", "Napier’s Bone", "Desktop"],
-      "answer_value": "Pebbles"
+      "answer": "Pebbles"
     },
     {
       "number": 33,
       "question": "Devices that use physical force to operate are called?",
       "options": ["Electronic devices", "Mechanical devices", "Electro-mechanical devices", "Early counting devices"],
-      "answer_value": "Mechanical devices"
+      "answer": "Mechanical devices"
     },
     {
       "number": 34,
       "question": "The abacus is mainly used for?",
       "options": ["Addition and multiplication", "Division and subtraction", "Addition and subtraction", "Division and multiplication"],
-      "answer_value": "Addition and subtraction"
+      "answer": "Addition and subtraction"
     },
     {
       "number": 35,
       "question": "Which device is considered an electronic counting device?",
       "options": ["ENIAC", "Napier’s bone", "Abacus", "Pascaline"],
-      "answer_value": "ENIAC"
+      "answer": "ENIAC"
     },
     {
       "number": 36,
       "question": "Which of the following devices was invented by Charles Babbage?",
       "options": ["Pascaline", "Analytical engine", "Abacus", "Napier’s bone"],
-      "answer_value": "Analytical engine"
+      "answer": "Analytical engine"
     },
     {
       "number": 37,
       "question": "The 5th generation computers were based on AI. What does AI mean?",
       "options": ["All International", "Artificial Intelligence", "Artificial International", "Almighty Intelligence"],
-      "answer_value": "Artificial Intelligence"
+      "answer": "Artificial Intelligence"
     },
     {
       "number": 38,
       "question": "Second Generation Computers were based on?",
       "options": ["Vacuum Tube", "Silicon Chips", "Transistor", "Bio Chips"],
-      "answer_value": "Transistor"
+      "answer": "Transistor"
     },
     {
       "number": 39,
       "question": "Who is referred to as the father of computers?",
       "options": ["Robert Bissakar", "Charles Babbage", "Gottfried Leibnitz", "Blaise Pascal"],
-      "answer_value": "Charles Babbage"
+      "answer": "Charles Babbage"
     },
     {
       "number": 40,
       "question": "The computer sends out the result of data processing on paper using an output device called?",
       "options": ["Monitor", "Printer", "Scanner", "Keyboard"],
-      "answer_value": "Printer"
+      "answer": "Printer"
     },
     {
       "number": 41,
       "question": "The term GIGO stands for?",
       "options": ["Get in get out", "Garbage in Garbage out", "Garbage in get out", "All of the above"],
-      "answer_value": "Garbage in Garbage out"
+      "answer": "Garbage in Garbage out"
     },
     {
       "number": 42,
       "question": "UPS stands for?",
       "options": ["Under power supply", "Uninterruptable power supply", "Uninterruptible petrol supply", "Use power sometimes"],
-      "answer_value": "Uninterruptable power supply"
+      "answer": "Uninterruptable power supply"
     },
     {
       "number": 43,
       "question": "What is the function of the UPS?",
       "options": ["To store electricity", "To store data for processing", "To protect the computer from heat", "To blow off dust from the computer"],
-      "answer_value": "To store electricity"
+      "answer": "To store electricity"
     },
     {
       "number": 44,
       "question": "The computer sends out data results on screen using?",
       "options": ["Monitor", "Printer", "Scanner", "Keyboard"],
-      "answer_value": "Monitor"
+      "answer": "Monitor"
     },
     {
       "number": 45,
       "question": "All the following are computer peripherals EXCEPT?",
       "options": ["Microsoft Access", "Mouse", "Keyboard", "Monitor"],
-      "answer_value": "Microsoft Access"
+      "answer": "Microsoft Access"
     },
     {
       "number": 46,
       "question": "ICT stands for?",
       "options": ["International and Communication Technology", "Information Communication and Timing", "Information and Communication Technology", "Internal connection Technology"],
-      "answer_value": "Information and Communication Technology"
+      "answer": "Information and Communication Technology"
     },
     {
       "number": 47,
       "question": "The two main memories of the computer are?",
       "options": ["CPU and Registers", "RAM and ROM", "ALU and CU", "PROM and EEPROM"],
-      "answer_value": "RAM and ROM"
+      "answer": "RAM and ROM"
     },
     {
       "number": 48,
       "question": "The term ROM means?",
       "options": ["Read Other Method", "Read Only Memory", "Repair Only Memory", "All of the above"],
-      "answer_value": "Read Only Memory"
+      "answer": "Read Only Memory"
     },
     {
       "number": 49,
       "question": "The following are electronic counting devices except?",
       "options": ["Personal computers", "ENIAC", "Palmtop", "Charles Babbage’s Analytical Machine"],
-      "answer_value": "Charles Babbage’s Analytical Machine"
+      "answer": "Charles Babbage’s Analytical Machine"
     },
     {
       "number": 50,
       "question": "Which of this is also called the stepped reckoner?",
       "options": ["The Pascaline", "John Napier’s Bone", "John Von Neumann machine", "Leibniz's calculator"],
-      "answer_value": "Leibniz's calculator"
+      "answer": "Leibniz's calculator"
     }
   ]
 
