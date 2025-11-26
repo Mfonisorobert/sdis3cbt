@@ -1,304 +1,53 @@
 [
-    {
-      "number": 1,
-      "question": "The computing devices invented by Charles Babbage are?",
-      "options": ["Abacus and difference engine", "Abacus and slide rule", "Analytical and difference engine", "Slide rule and analytical engine"],
-      "answer": "Analytical and difference engine"
-    },
-    {
-      "number": 2,
-      "question": "The Census machine was invented by?",
-      "options": ["Blaise Pascal", "Gottfried Leibnitz", "Herman Hollerith", "Joseph Jacquard"],
-      "answer": "Herman Hollerith"
-    },
-    {
-      "number": 3,
-      "question": "Once you load the suitable program and provide the required data, the computer does not need human intervention. This feature is known as?",
-      "options": ["Accuracy", "Reliability", "Versatility", "Automation"],
-      "answer": "Automation"
-    },
-    {
-      "number": 4,
-      "question": "Who is credited with the idea of using punch cards to control patterns in a weaving machine?",
-      "options": ["Pascal", "Hollerith", "Babbage", "Jacquard"],
-      "answer": "Jacquard"
-    },
-    {
-      "number": 5,
-      "question": "Which of the following is not the function of the mouse?",
-      "options": ["Clicking", "Pointing", "Pumping", "Dragging"],
-      "answer": "Pumping"
-    },
-    {
-      "number": 6,
-      "question": "What is the name of the main computer hardware that accommodates other accessories?",
-      "options": ["Printer", "Monitor", "System unit", "Motherboard"],
-      "answer": "System unit"
-    },
-    {
-      "number": 7,
-      "question": "Which of these devices can serve as an input and output device?",
-      "options": ["Touchpad", "Stylus", "Touch screen", "Printer"],
-      "answer": "Touch screen"
-    },
-    {
-      "number": 8,
-      "question": "Which of the following is not an output device?",
-      "options": ["Stylus", "Projector", "Printer", "Speaker"],
-      "answer": "Stylus"
-    },
-    {
-      "number": 9,
-      "question": "A computer can solve more than one kind of problem. Which of the following characteristics is this related to?",
-      "options": ["Accuracy", "Reliability", "Versatility", "Automation"],
-      "answer": "Automation"
-    },
-    {
-      "number": 10,
-      "question": "Which of the following machines was not invented by Charles Babbage?",
-      "options": ["Tabulating Machine", "Analytical Engine", "Difference Engine", "All of the above"],
-      "answer": "Tabulating Machine"
-    },
-    {
-      "number": 11,
-      "question": "An input device that allows anyone connected to the Internet to view still pictures or motion video is called?",
-      "options": ["Digital camera", "Webcam", "OCR", "Monitor"],
-      "answer": "Webcam"
-    },
-    {
-      "number": 12,
-      "question": "One computer that is not considered portable is?",
-      "options": ["Palmtop", "Laptop computer", "Notebook computer", "Desktop"],
-      "answer": "Desktop"
-    },
-    {
-      "number": 13,
-      "question": "A paper printout of a document is known as?",
-      "options": ["Softcopy output", "Hardcopy output", "Permanent Output", "All of above"],
-      "answer": "Hardcopy output"
-    },
-    {
-      "number": 14,
-      "question": "The full meaning of ENIAC is?",
-      "options": ["Electronic Number Information Access Computer", "Electrical Numerical Industrial and Communication", "Electronic Numerical Integrator and Computer", "Economic Numerical Information and Control"],
-      "answer": "Electronic Numerical Integrator and Computer"
-    },
-    {
-      "number": 15,
-      "question": "An output device that projects a large display onto a flat surface is called?",
-      "options": ["Monitor", "Projector", "Printer", "Speaker"],
-      "answer": "Projector"
-    },
-    {
-      "number": 16,
-      "question": "One machine used to process census information in the U.S.A. in 1890 is?",
-      "options": ["Herman Hollerith Machine", "Jacquard’s Loom", "Pascaline", "Gottfried Leibnitz"],
-      "answer": "Herman Hollerith Machine"
-    },
-    {
-      "number": 17,
-      "question": "A hard copy would be prepared on a?",
-      "options": ["Monitor", "Printer", "Keyboard", "Joystick"],
-      "answer": "Printer"
-    },
-    {
-      "number": 18,
-      "question": "The only language a microprocessor understands is?",
-      "options": ["Computer language", "Machine language", "Assembly language", "Translator"],
-      "answer": "Machine language"
-    },
-    {
-      "number": 19,
-      "question": "Word processing, spreadsheet, and graphic packages are examples of?",
-      "options": ["Operating system", "System software", "Application software", "Utility software"],
-      "answer": "Application software"
-    },
-    {
-      "number": 20,
-      "question": "The programming language readable to human beings is called?",
-      "options": ["Assembly language", "Machine language", "High-level language", "All of the above"],
-      "answer": "High-level language"
-    },
-
-    {
-      "number": 21,
-      "question": "Which of the following is not the function of the mouse?",
-      "options": ["Clicking", "Pointing", "Pumping", "Dragging"],
-      "answer": "Pumping"
-    },
-    {
-      "number": 22,
-      "question": "Hardware connected to the system unit is called?",
-      "options": ["CPU", "Monitor", "Peripherals", "Motherboard"],
-      "answer": "Peripherals"
-    },
-    {
-      "number": 23,
-      "question": "Which of the following did not contribute to computer development?",
-      "options": ["Blaise Pascal", "Joseph Jacquard", "Isaac Newton", "Gottfried Leibnitz"],
-      "answer": "Isaac Newton"
-    },
-    {
-      "number": 24,
-      "question": "All are audio output devices except?",
-      "options": ["Headphones", "Monitor", "Earbuds", "Speakers"],
-      "answer": "Monitor"
-    },
-    {
-      "number": 25,
-      "question": "One major problem with early counting devices is that?",
-      "options": ["They occupy small space", "They waste time", "They can be used to count large numbers", "They were fast"],
-      "answer": "They waste time"
-    },
-    {
-      "number": 26,
-      "question": "Integrated Circuits (ICs) are related to which generation of computers?",
-      "options": ["First generation", "Second generation", "Third generation", "Fourth generation"],
-      "answer": "Third generation"
-    },
-    {
-      "number": 27,
-      "question": "Microprocessors are for which generation of computers?",
-      "options": ["First Generation", "Second Generation", "Third Generation", "Fourth Generation"],
-      "answer": "Fourth Generation"
-    },
-    {
-      "number": 28,
-      "question": "Which generation of computers is still under development?",
-      "options": ["Fourth Generation", "Fifth Generation", "Sixth Generation", "Seventh Generation"],
-      "answer": "Fifth Generation"
-    },
-    {
-      "number": 29,
-      "question": "Who used punch cards to control patterns in a weaving machine?",
-      "options": ["John Von Neumann", "Joseph Marie Jacquard", "Blaise Pascal", "Gottfried Leibniz"],
-      "answer": "Joseph Marie Jacquard"
-    },
-    {
-      "number": 30,
-      "question": "Third-generation computers were made from?",
-      "options": ["Vacuum tubes", "Transistors", "Integrated circuit", "Punched card"],
-      "answer": "Integrated circuit"
-    },
-    {
-      "number": 31,
-      "question": "Which machine processed census information in the U.S.A. in 1890?",
-      "options": ["Herman Hollerith Machine", "Jacquard’s Loom", "Pascaline", "Gottfried Leibnitz"],
-      "answer": "Herman Hollerith Machine"
-    },
-    {
-      "number": 32,
-      "question": "Which of the following is an early counting device?",
-      "options": ["Pebbles", "Abacus", "Napier’s Bone", "Desktop"],
-      "answer": "Pebbles"
-    },
-    {
-      "number": 33,
-      "question": "Devices that use physical force to operate are called?",
-      "options": ["Electronic devices", "Mechanical devices", "Electro-mechanical devices", "Early counting devices"],
-      "answer": "Mechanical devices"
-    },
-    {
-      "number": 34,
-      "question": "The abacus is mainly used for?",
-      "options": ["Addition and multiplication", "Division and subtraction", "Addition and subtraction", "Division and multiplication"],
-      "answer": "Addition and subtraction"
-    },
-    {
-      "number": 35,
-      "question": "Which device is considered an electronic counting device?",
-      "options": ["ENIAC", "Napier’s bone", "Abacus", "Pascaline"],
-      "answer": "ENIAC"
-    },
-    {
-      "number": 36,
-      "question": "Which of the following devices was invented by Charles Babbage?",
-      "options": ["Pascaline", "Analytical engine", "Abacus", "Napier’s bone"],
-      "answer": "Analytical engine"
-    },
-    {
-      "number": 37,
-      "question": "The 5th generation computers were based on AI. What does AI mean?",
-      "options": ["All International", "Artificial Intelligence", "Artificial International", "Almighty Intelligence"],
-      "answer": "Artificial Intelligence"
-    },
-    {
-      "number": 38,
-      "question": "Second Generation Computers were based on?",
-      "options": ["Vacuum Tube", "Silicon Chips", "Transistor", "Bio Chips"],
-      "answer": "Transistor"
-    },
-    {
-      "number": 39,
-      "question": "Who is referred to as the father of computers?",
-      "options": ["Robert Bissakar", "Charles Babbage", "Gottfried Leibnitz", "Blaise Pascal"],
-      "answer": "Charles Babbage"
-    },
-    {
-      "number": 40,
-      "question": "The computer sends out the result of data processing on paper using an output device called?",
-      "options": ["Monitor", "Printer", "Scanner", "Keyboard"],
-      "answer": "Printer"
-    },
-    {
-      "number": 41,
-      "question": "The term GIGO stands for?",
-      "options": ["Get in get out", "Garbage in Garbage out", "Garbage in get out", "All of the above"],
-      "answer": "Garbage in Garbage out"
-    },
-    {
-      "number": 42,
-      "question": "UPS stands for?",
-      "options": ["Under power supply", "Uninterruptable power supply", "Uninterruptible petrol supply", "Use power sometimes"],
-      "answer": "Uninterruptable power supply"
-    },
-    {
-      "number": 43,
-      "question": "What is the function of the UPS?",
-      "options": ["To store electricity", "To store data for processing", "To protect the computer from heat", "To blow off dust from the computer"],
-      "answer": "To store electricity"
-    },
-    {
-      "number": 44,
-      "question": "The computer sends out data results on screen using?",
-      "options": ["Monitor", "Printer", "Scanner", "Keyboard"],
-      "answer": "Monitor"
-    },
-    {
-      "number": 45,
-      "question": "All the following are computer peripherals EXCEPT?",
-      "options": ["Microsoft Access", "Mouse", "Keyboard", "Monitor"],
-      "answer": "Microsoft Access"
-    },
-    {
-      "number": 46,
-      "question": "ICT stands for?",
-      "options": ["International and Communication Technology", "Information Communication and Timing", "Information and Communication Technology", "Internal connection Technology"],
-      "answer": "Information and Communication Technology"
-    },
-    {
-      "number": 47,
-      "question": "The two main memories of the computer are?",
-      "options": ["CPU and Registers", "RAM and ROM", "ALU and CU", "PROM and EEPROM"],
-      "answer": "RAM and ROM"
-    },
-    {
-      "number": 48,
-      "question": "The term ROM means?",
-      "options": ["Read Other Method", "Read Only Memory", "Repair Only Memory", "All of the above"],
-      "answer": "Read Only Memory"
-    },
-    {
-      "number": 49,
-      "question": "The following are electronic counting devices except?",
-      "options": ["Personal computers", "ENIAC", "Palmtop", "Charles Babbage’s Analytical Machine"],
-      "answer": "Charles Babbage’s Analytical Machine"
-    },
-    {
-      "number": 50,
-      "question": "Which of this is also called the stepped reckoner?",
-      "options": ["The Pascaline", "John Napier’s Bone", "John Von Neumann machine", "Leibniz's calculator"],
-      "answer": "Leibniz's calculator"
-    }
+    {"number":1,"question":"The ice and steam point of a certain thermometer are -20 degrees and 100 degrees respectively. Calculate the Celsius temperature corresponding to 70 degrees on the thermometer","options":["84.0 degree celsius","75.0 degree celsius","58.0 degree celsius","64.0 degree celsius"],"answer":"75.0 degree celsius"},
+    {"number":2,"question":"Which of the following values on the absolute scale of temperature is the ice point?","options":["0K","32K","100K","273K"],"answer":"273K"},
+    {"number":3,"question":"A temperature of 60 degrees is equivalent to","options":["250 Farenheit","500 Farenheit","1080 Farenheit","1400 Farenheit"],"answer":"1400 Farenheit"},
+    {"number":4,"question":"A thermometer that uses the change in pressure of a gas is called a…","options":["thermocouple","resistance thermometer","liquid-in-glass thermometer","gas thermometer"],"answer":"gas thermometer"},
+    {"number":5,"question":"Absolute zero (0 K) is equivalent to…","options":["0°C","-273°C","273°C","100°C"],"answer":"-273°C"},
+    {"number":6,"question":"A temperature of 27°C is equivalent to.","options":["246 K","300 K","27 K","273 K"],"answer":"300 K"},
+    {"number":7,"question":"A body of mass, m, has a specific heat capacity, s, and heat capacity, c. The temperature of the body changes by θ 0 C which of the following equations is correct ?","options":["ms θ = mc-1","ms = C","ms - sθ","ms = Cθ"],"answer":"ms - sθ"},
+    {"number":8,"question":"The amount of heat given out or absorbed when a substance changes its state at a constant temperature is known as","options":["latent heat","heat capacity","specific latent heat","specific heat capacity"],"answer":"latent heat"},
+    {"number":9,"question":"The quantity of heat energy required to raise the temperature of an entire object by one Kelvin is its","options":["Specific Heat Capacity","Internal Energy","Heat Capacity","Latent Heat"],"answer":"Heat Capacity"},
+    {"number":10,"question":"The quantity of heat energy required to raise the temperature of a unit mass of a substance by one Kelvin is its…","options":["Heat Capacity","Internal Energy","Specific Heat Capacity","Latent Heat"],"answer":"Specific Heat Capacity"},
+    {"number":11,"question":"The specific heat capacity of water is approximately…","options":["400 Jkg⁻¹K⁻¹","2100 Jkg⁻¹K⁻¹","4200 Jkg⁻¹K⁻¹","1000 Jkg⁻¹K⁻¹"],"answer":"4200 Jkg⁻¹K⁻¹"},
+    {"number":12,"question":"The formula for calculating heat energy using specific heat capacity is…","options":["Q = mL","Q = CΔθ","Q = IVt","Q = mcΔθ"],"answer":"Q = mcΔθ"},
+    {"number":13,"question":"The principle of \"heat lost = heat gained\" is applied in the…","options":["Electrical Method","Method of Mixtures","Boyle's Law","Pressure Law"],"answer":"Method of Mixtures"},
+    {"number":14,"question":"How much heat is required to convert 20g of ice at 0°C to water at the same temperature? (specific latent heat of ice = 336 j g⁻¹)","options":["1.35 x 10^3 J","5.38 x 10^3 J","6.72 x 10^3 J","7.06 x 10^3 J"],"answer":"7.06 x 10^3 J"},
+    {"number":15,"question":"The amount of energy required to change a kilogram of ice block into water without a change in temperature is","options":["specific latent Heat of Vaporization","heat capacity of ice","specific Latent Heat of Fusion of ice","specific Heat Capacity"],"answer":"specific Latent Heat of Fusion of ice"},
+    {"number":16,"question":"The heat needed to change 1kg of a liquid to vapour at its boiling point is the…","options":["Latent Heat of Vaporization","Specific Heat Capacity","Latent Heat of Fusion","Heat Capacity"],"answer":"Latent Heat of Vaporization"},
+    {"number":17,"question":"The unit for specific latent heat is…","options":["J/kg","Jkg⁻¹","J/K","Both A and B"],"answer":"Both A and B"},
+    {"number":18,"question":"Which of the following occurs only at the surface of a liquid?","options":["Boiling","Condensation","Evaporation","Sublimation"],"answer":"Evaporation"},
+    {"number":19,"question":"Which of the following process causes cooling?","options":["Boiling","Condensation","Melting","Evaporation"],"answer":"Evaporation"},
+    {"number":20,"question":"Ether produces a cooling effect when it is poured on the hand because it has","options":["low conductivity","high latent heat of vaporization","high conductivity","low latent heat of vaporization"],"answer":"high latent heat of vaporization"},
+    {"number":21,"question":"The ratio of the mass of water vapour in air to the mass required to saturate it is the…","options":["Dew Point","Humidity","Relative Humidity","Saturation Point"],"answer":"Relative Humidity"},
+    {"number":22,"question":"When table salt is added to ice, the melting point of ice is","options":["raised","lowered","remains the same","first raised, then lowered"],"answer":"lowered"},
+    {"number":23,"question":"Which of the following factors decreases the rate of evaporation of a liquid?","options":["increase in pressure over the liquid","lowering the boiling point","decrease in humidity","wind"],"answer":"increase in pressure over the liquid"},
+    {"number":24,"question":"A Hypsometer is an instrument used for determining","options":["Steam point","relative humidity","ice point","relative density"],"answer":"Steam point"},
+    {"number":25,"question":"According to Boyle's Law, for a fixed mass of gas at constant temperature…","options":["P ∝ T","V ∝ T","P ∝ 1/V","V ∝ 1/T"],"answer":"P ∝ 1/V"},
+    {"number":26,"question":"According to Charles' Law, the volume of a fixed mass of gas is directly proportional to its…","options":["Pressure","Temperature in °C","Density","Absolute Temperature"],"answer":"Absolute Temperature"},
+    {"number":27,"question":"Which of the following factors does not affect the rate of evaporation of a liquid?","options":["Volume","Temperature","wind","surface area"],"answer":"Volume"},
+    {"number":28,"question":"The relationship between Boyle’s law and Charles law is known as the…","options":["Ideal Gas Equation","General Gas Law","Pressure Law","Combined Gas Constant"],"answer":"General Gas Law"},
+    {"number":29,"question":"A gas has a volume of 200 cm³ at 100 kPa. What is its volume at 250 kPa (T is constant)?","options":["500 cm³","125 cm³","80 cm³","50 cm³"],"answer":"80 cm³"},
+    {"number":30,"question":"A gas has a volume of 0.5 m³ at 300 K. What is its volume at 600 K (P constant)?","options":["0.25 m³","1.0 m³","2.0 m³","1.5 m³"],"answer":"1.0 m³"},
+    {"number":31,"question":"A gas has a pressure of 100 kPa at 270 K. What is its pressure at 540 K (V constant)?","options":["50 kPa","200 kPa","540 kPa","1000 kPa"],"answer":"200 kPa"},
+    {"number":32,"question":"A gas at 100 kPa and 300 K occupies 2.0 m³. What is its volume at 200 kPa and 400 K?","options":["1.33 m³","3.0 m³","0.75 m³","2.0 m³"],"answer":"1.33 m³"},
+    {"number":33,"question":"A gas at 27°C and 2.0 x 10⁵ Pa is heated at constant volume until its pressure doubles. The final temperature is…","options":["54°C","327°C","600°C","177°C"],"answer":"327°C"},
+    {"number":34,"question":"Boyle's Law is applied in the operation of…","options":["hot air balloons","pressure cookers","syringes","thermometers"],"answer":"syringes"},
+    {"number":35,"question":"The working principles of a pressure cooker is based on the","options":["increase in the volume of steam inside it","complete trapping of heat inside it","increase in the pressure of the pot","decrease in the pressure of the pot"],"answer":"increase in the pressure of the pot"},
+    {"number":36,"question":"The pressure law is applied in the operation of…","options":["syringes","pressure cookers","hot air balloons","thermometers"],"answer":"pressure cookers"},
+    {"number":37,"question":"Which thermometer is considered very accurate and its the basis for the Kelvin scale?","options":["Liquid-in-glass","Gas thermometer","Clinical thermometer","Thermocouple"],"answer":"Gas thermometer"},
+    {"number":38,"question":"The temperature at which the water vapour present in the air is just sufficient to saturate it is called the","options":["ice point","boiling point","steam point","dew point"],"answer":"dew point"},
+    {"number":39,"question":"Mercury is used in thermometers because it…","options":["has a low freezing point","is safe","has a high boiling point","wets glass"],"answer":"wets glass"},
+    {"number":40,"question":"The energy needed to heat 2kg of water from 20°C to 100°C is… (c = 4200 Jkg⁻¹K⁻¹)","options":["336,000 J","672,000 J","168,000 J","840,000 J"],"answer":"672,000 J"},
+    {"number":41,"question":"Which of the following statements about evaporation is correct?","options":["It occurs at a specific fixed temperature for a given liquid.","It causes the temperature of the surrounding air to increase.","It can occur at any temperature.","It takes place only at the boiling point."],"answer":"It can occur at any temperature."},
+    {"number":42,"question":"A Hygrometer is an instrument used to measure","options":["Dew point","temperature","relative humidity","Relative density"],"answer":"relative humidity"},
+    {"number":43,"question":"A thermocouple thermometer is often preferred in industry because it:","options":["Is the most accurate instrument for defining the Kelvin scale.","Has a wide range and can measure rapidly changing temperatures.","Is simple and uses the expansion of a liquid.","Measures the resistance of a pure platinum wire."],"answer":"Is simple and uses the expansion of a liquid."},
+    {"number":44,"question":"What is the primary physical change that occurs when a substance is at its melting point and heat is being supplied?","options":["Its temperature increases steadily.","Its molecular kinetic energy increases.","Its potential energy increases as bonds are broken.","Its specific heat capacity changes."],"answer":"Its potential energy increases as bonds are broken."},
+    {"number":45,"question":"The feeling of stickiness on a humid day is directly related to:","options":["Low relative humidity, which increases evaporation.","High relative humidity, which slows down the evaporation of sweat.","A low dew point temperature.","The high specific heat capacity of water vapor."],"answer":"A low dew point temperature."},
+    {"number":46,"question":"Which of the following is an application of the expansion of gases due to temperature change?","options":["The bending of a bimetallic strip in a thermostat.","The rising of a hot air balloon.","The reading on a mercury-in-glass thermometer.","The operation of a manometer."],"answer":"The rising of a hot air balloon."},
+    {"number":47,"question":"The key difference between Heat Capacity and Specific Heat Capacity is that Heat Capacity depends on the ______ of the object, while Specific Heat Capacity is a property of the ______.","options":["temperature, substance","mass, substance","substance, mass","volume, material"],"answer":"mass, substance"},
+    {"number":48,"question":"When a gas is compressed rapidly in a syringe (Boyle's Law demonstration), what is held constant to observe the pressure-volume relationship?","options":["Pressure","Volume","Mass","Temperature"],"answer":"Temperature"},
+    {"number":49,"question":"The phenomenon where a solid like iodine changes directly into a purple vapor upon heating is an example of:","options":["Evaporation","Condensation","Fusion","Sublimation"],"answer":"Sublimation"},
+    {"number":50,"question":"If the specific latent heat of vaporization of a substance is very high, it means that:","options":["It heats up very quickly.","A large amount of energy is needed to boil a given mass of it.","It melts at a very low temperature.","It is a good conductor of heat."],"answer":"A large amount of energy is needed to boil a given mass of it."}
   ]
 
