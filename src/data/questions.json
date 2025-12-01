@@ -1,553 +1,377 @@
- [
+  [
     {
       "number": 1,
-      "question": "Civic Education can best be defined as the study that helps citizens understand their ___",
+      "question": "The following are uses of sulphur except",
       "options": [
-        "rights and responsibilities",
-        "government and leaders",
-        "political parties",
-        "foreign policies"
+        "manufacture of tetraoxosulphate(VI) acid (H₂SO₄)",
+        "prevention of the growth of fungi",
+        "vulcanization of rubber",
+        "coating of steel to prevent rusting"
       ],
-      "answer": "rights and responsibilities"
+      "answer": "coating of steel to prevent rusting"
     },
     {
       "number": 2,
-      "question": "The main goal of Civic Education is to produce citizens who are ___",
-      "options": [
-        "politically active only",
-        "law-abiding and responsible",
-        "financially independent",
-        "academically brilliant"
-      ],
-      "answer": "law-abiding and responsible"
+      "question": "Which of the following elements can form more than one acidic oxide?",
+      "options": ["hydrogen", "sulphur", "carbon", "aluminium"],
+      "answer": "sulphur"
     },
     {
       "number": 3,
-      "question": "Civic Education is a subject that teaches individuals how to ___",
-      "options": [
-        "make laws for the nation",
-        "perform their duties as citizens",
-        "lead political parties",
-        "criticize government policies"
-      ],
-      "answer": "perform their duties as citizens"
+      "question": "If a metal R forms a compound with the formula R(NO₃)₂ the formula of its tetraoxosulphate(VI) is",
+      "options": ["R(SO₄)₂", "RSO₄", "R₂SO₄", "R₂(SO₄)₃"],
+      "answer": "R(SO₄)₂"
     },
     {
       "number": 4,
-      "question": "Which of the following best describes the nature of Civic Education?",
-      "options": [
-        "It is purely religious",
-        "It is moral and participatory",
-        "It is a political ideology",
-        "It is based on economic theories"
-      ],
-      "answer": "It is moral and participatory"
+      "question": "If sulphur is dissolved in carbon(IV) sulphide (CS₂) and the solution is allowed to evaporate, the allotrope of sulphur formed is",
+      "options": ["plastic sulphur", "amorphous sulphur", "rhombic sulphur", "monoclinic sulphur"],
+      "answer": "rhombic sulphur"
     },
     {
       "number": 5,
-      "question": "Civic Education helps in promoting ___ among citizens.",
+      "question": "Trioxosulphate(IV) acid (H₂SO₃) is not stored for a long period because it",
       "options": [
-        "political rivalry",
-        "national unity and tolerance",
-        "selfishness and greed",
-        "violence and disobedience"
+        "is a weak dibasic acid",
+        "has bleaching properties",
+        "is unstable and easily decomposed",
+        "smells strongly of sulphur(IV) oxide (SO₂)"
       ],
-      "answer": "national unity and tolerance"
+      "answer": "is unstable and easily decomposed"
     },
     {
       "number": 6,
-      "question": "One of the key natures of Civic Education is that it is ___ in its approach.",
-      "options": [
-        "democratic",
-        "dictatorial",
-        "monarchical",
-        "conservative"
-      ],
-      "answer": "democratic"
+      "question": "Sulphur burns in air to form",
+      "options": ["an acidic oxide (SO₂)", "a basic oxide", "an amphoteric oxide", "a mixed oxide"],
+      "answer": "an acidic oxide (SO₂)"
     },
     {
       "number": 7,
-      "question": "The objectives of Civic Education include the promotion of ___",
-      "options": [
-        "obedience without understanding",
-        "civic knowledge, skills, and values",
-        "blind loyalty to leaders",
-        "religious intolerance"
-      ],
-      "answer": "civic knowledge, skills, and values"
+      "question": "A positive brown ring test indicates the presence of",
+      "options": ["NO₃⁻", "Fe³⁺", "SO₃²⁻", "Cu⁺"],
+      "answer": "NO₃⁻"
     },
     {
       "number": 8,
-      "question": "Civic Education encourages citizens to participate in the ___ of their country.",
-      "options": [
-        "economic exploitation",
-        "political and social development",
-        "foreign domination",
-        "private affairs only"
-      ],
-      "answer": "political and social development"
+      "question": "Which of the following is a neutral oxide?",
+      "options": ["nitrogen(IV) oxide (NO₂)", "carbon(IV) oxide (CO₂)", "sulphur(VI) oxide (SO₃)", "nitrous oxide (N₂O)"],
+      "answer": "nitrous oxide (N₂O)"
     },
     {
       "number": 9,
-      "question": "A major objective of Civic Education is to prepare individuals to become ___",
+      "question": "Nitrogen is prepared on a large scale by the",
       "options": [
-        "future military leaders",
-        "active and responsible citizens",
-        "religious leaders",
-        "business managers"
+        "fractional distillation of liquid air",
+        "decomposition of ammonium dioxonitrate(III) (NH₄NO₂)",
+        "electrolysis of brine",
+        "Haber process"
       ],
-      "answer": "active and responsible citizens"
+      "answer": "fractional distillation of liquid air"
     },
     {
       "number": 10,
-      "question": "Civic Education discourages ___ in society.",
-      "options": [
-        "patriotism",
-        "corruption and indiscipline",
-        "honesty",
-        "tolerance"
-      ],
-      "answer": "corruption and indiscipline"
+      "question": "Ammonia gas (NH₃) is suitable for performing the 'fountain' experiment because the gas is",
+      "options": ["colourless", "a cooling agent", "alkaline to litmus", "very soluble in water"],
+      "answer": "very soluble in water"
     },
     {
       "number": 11,
-      "question": "The importance of studying Civic Education lies in its ability to ___",
+      "question": "Which of the following when heated strongly in air will leave a metal as residue?",
       "options": [
-        "encourage hatred among citizens",
-        "promote responsible citizenship and good governance",
-        "reduce national development",
-        "cause political apathy"
+        "sodium trioxonitrate(V) (NaNO₃)",
+        "potassium trioxonitrate(V) (KNO₃)",
+        "silver trioxonitrate(V) (AgNO₃)",
+        "lead(II) trioxonitrate(V) (Pb(NO₃)₂)"
       ],
-      "answer": "promote responsible citizenship and good governance"
+      "answer": "lead(II) trioxonitrate(V) (Pb(NO₃)₂)"
     },
     {
       "number": 12,
-      "question": "One of the importance of Civic Education is that it equips learners with the ability to ___",
+      "question": "Producer gas is a mixture of",
       "options": [
-        "engage in political violence",
-        "make informed decisions in civic matters",
-        "resist all forms of government authority",
-        "avoid participation in national issues"
+        "oxygen and hydrogen",
+        "hydrogen and nitrogen",
+        "nitrogen and oxygen",
+        "nitrogen and carbon(II) oxide (CO)"
       ],
-      "answer": "make informed decisions in civic matters"
+      "answer": "nitrogen and carbon(II) oxide (CO)"
     },
     {
       "number": 13,
-      "question": "Civic Education contributes to national development by ___",
+      "question": "Which of the following explains why trioxonitrate(V) acid (HNO₃) is not used for preparing hydrogen from metals?",
       "options": [
-        "creating awareness of citizens’ rights and duties",
-        "supporting ignorance and corruption",
-        "encouraging illegal migration",
-        "promoting ethnic discrimination"
+        "it is volatile",
+        "it is strongly oxidizing",
+        "it forms a layer of oxide on the metal",
+        "it renders the metals passive"
       ],
-      "answer": "creating awareness of citizens’ rights and duties"
+      "answer": "it is strongly oxidizing"
     },
     {
       "number": 14,
-      "question": "Which of the following is NOT an importance of studying Civic Education?",
+      "question": "Which of the following is normally used for drying ammonia gas (NH₃)?",
       "options": [
-        "It promotes good governance",
-        "It encourages moral and civic responsibility",
-        "It teaches disobedience to laws",
-        "It helps citizens to know their rights"
+        "concentrated tetraoxosulphate(VI) acid (H₂SO₄)",
+        "calcium oxide (CaO)",
+        "anhydrous calcium chloride (CaCl₂)",
+        "phosphorus(V) oxide (P₂O₅)"
       ],
-      "answer": "It teaches disobedience to laws"
+      "answer": "calcium oxide (CaO)"
     },
     {
       "number": 15,
-      "question": "One of the reasons Civic Education is taught in schools is to ___",
+      "question": "When aqueous ammonia is added to one of the following solutions, a white precipitate which dissolves in excess ammonia is formed. Identify the solution.",
       "options": [
-        "prepare students to overthrow bad governments",
-        "train students to be disciplined and patriotic",
-        "discourage political participation",
-        "promote tribalism and conflict"
+        "ZnCl₂(aq)  → forms white Zn(OH)₂ which dissolves in excess NH₃",
+        "Pb(NO₃)₂(aq)",
+        "CuSO₄(aq)",
+        "FeSO₄(aq)"
       ],
-      "answer": "train students to be disciplined and patriotic"
+      "answer": "ZnCl₂(aq)  → forms white Zn(OH)₂ which dissolves in excess NH₃"
     },
     {
       "number": 16,
-      "question": "Values can best be defined as the ___",
-      "options": [
-        "customs and traditions of a people",
-        "moral principles and beliefs guiding human behaviour",
-        "laws made by the government",
-        "rights enjoyed by citizens"
-      ],
-      "answer": "moral principles and beliefs guiding human behaviour"
+      "question": "The gaseous product formed when ammonia is passed over heated copper(II) oxide is",
+      "options": ["oxygen", "nitrogen", "hydrogen", "nitric oxide (NO)"],
+      "answer": "nitrogen"
     },
     {
       "number": 17,
-      "question": "The term “value” in Civic Education refers to what a person ___",
-      "options": [
-        "dislikes and avoids",
-        "considers right, good, and desirable",
-        "borrows from others",
-        "inherits from parents"
-      ],
-      "answer": "considers right, good, and desirable"
+      "question": "Which of the following will produce nitrogen(IV) oxide (NO₂) and oxygen when heated strongly? (i) NaNO₃ (ii) KNO₃ (iii) Mg(NO₃)₂ (iv) Pb(NO₃)₂",
+      "options": ["IV only", "I & II", "III & IV", "I, II & III"],
+      "answer": "I, II & III"
     },
     {
       "number": 18,
-      "question": "Values are important in society because they ___",
-      "options": [
-        "cause disunity among people",
-        "serve as standards for judging actions",
-        "encourage corruption",
-        "promote selfishness"
-      ],
-      "answer": "serve as standards for judging actions"
+      "question": "Which of the following is/are correct of the ammonia molecule (NH₃)? (i) It has a tetrahedral shape (ii) It has a lone pair of electrons (iii) The H–N–H bond angle is 180° (iv) It is non-polar",
+      "options": ["IV only", "I & II", "III & IV", "I, II, III & IV"],
+      "answer": "I & II"
     },
     {
       "number": 19,
-      "question": "Which of the following is a category of value?",
-      "options": [
-        "Political value",
-        "Musical value",
-        "Physical value",
-        "Academic value"
-      ],
-      "answer": "Political value"
+      "question": "Which of the following molecules has a triple bond in its structure?",
+      "options": ["CH₄", "NH₃", "N₂", "O₂"],
+      "answer": "N₂"
     },
     {
       "number": 20,
-      "question": "The two broad categories of values are ___",
-      "options": [
-        "moral and non-moral values",
-        "economic and political values",
-        "legal and illegal values",
-        "religious and ethnic values"
-      ],
-      "answer": "moral and non-moral values"
+      "question": "In which of the following compound(s) will heat be absorbed on adding water? (i) KNO₃ (ii) concentrated H₂SO₄ (iii) NH₄Cl",
+      "options": ["I only", "III only", "I and III only", "II and III only"],
+      "answer": "I and III only"
     },
     {
       "number": 21,
-      "question": "A value that concerns honesty, truthfulness, and right conduct is known as a ___",
-      "options": [
-        "material value",
-        "moral value",
-        "cultural value",
-        "traditional value"
-      ],
-      "answer": "moral value"
+      "question": "Which of the following gases is highly soluble in water at room temperature?",
+      "options": ["ammonia (NH₃)", "carbon(IV) oxide (CO₂)", "chlorine (Cl₂)", "nitrogen (N₂)"],
+      "answer": "ammonia (NH₃)"
     },
     {
       "number": 22,
-      "question": "Economic values emphasize ___",
-      "options": [
-        "how individuals can make money and manage resources",
-        "how people can sing and dance",
-        "how to become politicians",
-        "how to avoid paying taxes"
-      ],
-      "answer": "how individuals can make money and manage resources"
+      "question": "Which of the following gases is alkaline?",
+      "options": ["NO₂", "CO₂", "NH₃", "N₂O"],
+      "answer": "NH₃"
     },
     {
       "number": 23,
-      "question": "Social values promote ___ in society.",
-      "options": [
-        "discrimination and hatred",
-        "unity, cooperation, and peaceful living",
-        "corruption and conflict",
-        "oppression and injustice"
-      ],
-      "answer": "unity, cooperation, and peaceful living"
+      "question": "Why are H₂SO₄ and CaCl₂ not suitable for drying ammonia gas (NH₃)? They",
+      "options": ["are corrosive", "are poisonous", "react with the gas", "pollute the gas"],
+      "answer": "react with the gas"
     },
     {
       "number": 24,
-      "question": "Which of the following is an example of political value?",
+      "question": "Which of the following factors characterize members of the same homologous series?",
       "options": [
-        "Truthfulness",
-        "Patriotism",
-        "Generosity",
-        "Obedience"
+        "the chemical properties change gradually throughout the series",
+        "physical properties of members are similar",
+        "they have the same molecular formula",
+        "successive members differ by CH₂"
       ],
-      "answer": "Patriotism"
+      "answer": "successive members differ by CH₂"
     },
     {
       "number": 25,
-      "question": "The term integrity means ___",
+      "question": "The IUPAC name for the compound ClCH₂CH₂OH is",
       "options": [
-        "dishonesty in personal conduct",
-        "strict adherence to moral and ethical principles",
-        "ability to deceive others successfully",
-        "cleverness in business"
+        "1-chloropropanol",
+        "2-chloropropanol",
+        "1-chloroethanol",
+        "2-chloroethanol"
       ],
-      "answer": "strict adherence to moral and ethical principles"
+      "answer": "2-chloroethanol"
     },
     {
       "number": 26,
-      "question": "A person with integrity is known for being ___",
+      "question": "A primary alkanol has a molecular mass of 60. What is the structural formula of the compound? [H = 1.0, C = 12.0, O = 16.0]",
       "options": [
-        "corrupt and dishonest",
-        "honest and trustworthy",
-        "greedy and selfish",
-        "violent and proud"
+        "CH₃CH₂OH (molar mass 46) — not correct",
+        "CH₃CH₂CH₂OH (C₃H₇OH) — structural formula: CH₃–CH₂–CH₂–OH",
+        "CH₃OH (molar mass 32) — not correct",
+        "C₄H₉OH (molar mass > 60) — not correct"
       ],
-      "answer": "honest and trustworthy"
+      "answer": "CH₃–CH₂–CH₂–OH"
     },
     {
       "number": 27,
-      "question": "Integrity is important in society because it ___",
+      "question": "Which of the following pairs of compounds belongs to the same homologous series?",
       "options": [
-        "encourages cheating in exams",
-        "builds trust and confidence among people",
-        "promotes corruption",
-        "leads to lawlessness"
+        "C₃H₈ and C₃H₆",
+        "C₄H₁₀ and C₃H₈C₃H₈",
+        "C₂H₄ and C₄H₁₀",
+        "C₂H₆ and C₄H₁₀"
       ],
-      "answer": "builds trust and confidence among people"
+      "answer": "C₂H₆ and C₄H₁₀"
     },
     {
       "number": 28,
-      "question": "Which of the following best shows the importance of integrity in public life?",
+      "question": "Consider the reaction represented by the equation: H–C≡C–H  + H₂ → H–CH=CH–H. H₂X and H₂Y respectively are",
       "options": [
-        "It reduces embezzlement of public funds",
-        "It increases election rigging",
-        "It promotes bribery",
-        "It discourages transparency"
+        "ethene and ethane",
+        "ethane and ethene",
+        "ethyne and ethene",
+        "ethene and propene"
       ],
-      "answer": "It reduces embezzlement of public funds"
+      "answer": "ethyne and ethene"
     },
     {
       "number": 29,
-      "question": "One way students can demonstrate integrity in school is by ___",
-      "options": [
-        "copying during examinations",
-        "keeping promises and telling the truth",
-        "joining secret cults",
-        "cheating to pass"
-      ],
-      "answer": "keeping promises and telling the truth"
+      "question": "Which of the following organic compounds could be represented by the empirical formula CH₂O?",
+      "options": ["ethanal (C₂H₄O)", "ethane (C₂H₆)", "ethanol (C₂H₆O)", "ethanoic acid (CH₃COOH)"],
+      "answer": "ethanoic acid (CH₃COOH)"
     },
     {
       "number": 30,
-      "question": "Integrity is a desirable value because it leads to ___",
-      "options": [
-        "mistrust and failure",
-        "good reputation and moral uprightness",
-        "dishonesty and disrespect",
-        "loss of friendship"
-      ],
-      "answer": "good reputation and moral uprightness"
+      "question": "How many isomers has C₃H₆Cl₂?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
     },
     {
       "number": 31,
-      "question": "Which of the following best defines value in civic education?",
-      "options": [
-        "The amount of property owned by an individual",
-        "The moral principles and standards that guide human actions",
-        "The ability to make laws for society",
-        "The total wealth of a nation"
-      ],
-      "answer": "The moral principles and standards that guide human actions"
+      "question": "Which of the following reactions is common to all hydrocarbons?",
+      "options": ["combustion", "addition", "polymerization", "condensation"],
+      "answer": "combustion"
     },
     {
       "number": 32,
-      "question": "Which of the following is a type of value?",
-      "options": [
-        "Political value",
-        "Corrupt value",
-        "False value",
-        "Criminal value"
-      ],
-      "answer": "Political value"
+      "question": "Hydrocarbons which react with ammoniacal copper(I) chloride solution conform to the general molecular formula",
+      "options": ["CₙHₙ", "CₙH₂ₙ", "CₙH₂ₙ₊₂", "CₙH₂ₙ₋₂"],
+      "answer": "CₙH₂ₙ₋₂"
     },
     {
       "number": 33,
-      "question": "Values that promote honesty, integrity, and justice are known as ———.",
+      "question": "What is the IUPAC name of the compound with the following structure? (structure shown as text)\n\n    H\n\nH–C–   C= C–H\n      |       \n      H      H–C–H\n             |\n             H",
       "options": [
-        "Economic values",
-        "Moral values",
-        "Cultural values",
-        "Religious values"
+        "2-methylbutene",
+        "2-methylprop-2-ene",
+        "2-methylprop-1-ene",
+        "but-1-ene"
       ],
-      "answer": "Moral values"
+      "answer": "2-methylprop-1-ene"
     },
     {
       "number": 34,
-      "question": "One major importance of value in a society is ___",
-      "options": [
-        "Leads to disunity among people",
-        "Promotes good behaviour and harmony",
-        "Encourages lawlessness",
-        "Destroys moral standards"
-      ],
-      "answer": "Promotes good behaviour and harmony"
+      "question": "A gaseous unsaturated hydrocarbon (I) usually undergoes addition reactions (II) consists of at least one multiple bond (III) decolorizes acidified KMnO₄ solution (IV) can be polymerized under suitable conditions",
+      "options": ["IV only", "I & III", "III & IV", "I, II, III & IV"],
+      "answer": "I, II, III & IV"
     },
     {
       "number": 35,
-      "question": "Which of the following statements correctly describes the importance of values?",
-      "options": [
-        "They encourage citizens to disregard the law",
-        "They help individuals make the right decisions",
-        "They promote selfishness and greed",
-        "They reduce discipline in society"
-      ],
-      "answer": "They help individuals make the right decisions"
+      "question": "Which of the following hydrocarbons is unsaturated?",
+      "options": ["ethane (C₂H₆)", "benzene (C₆H₆)", "propane (C₃H₈)", "2-methylbutane (C₅H₁₂)"],
+      "answer": "benzene (C₆H₆)"
     },
     {
       "number": 36,
-      "question": "The term opportunity to defend oneself means the right of an individual to ___",
-      "options": [
-        "remain silent when accused",
-        "explain or justify his actions before punishment",
-        "avoid attending court proceedings",
-        "refuse to obey laws"
-      ],
-      "answer": "explain or justify his actions before punishment"
+      "question": "What is the relationship between the compounds represented by the following structures? (question indicates two structural forms — answer choices:)",
+      "options": ["Allotropes", "dimers", "polymers", "geometric isomers"],
+      "answer": "geometric isomers"
     },
     {
       "number": 37,
-      "question": "Opportunity to defend oneself is a principle that ensures ___",
-      "options": [
-        "justice and fairness in handling cases",
-        "punishment without investigation",
-        "judgment without hearing",
-        "favoritism in the court"
-      ],
-      "answer": "justice and fairness in handling cases"
+      "question": "How many isomers can be obtained from C₄H₁₀?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "2"
     },
     {
       "number": 38,
-      "question": "The opportunity to defend oneself is also referred to as the right to ___",
-      "options": [
-        "personal liberty",
-        "fair hearing",
-        "private property",
-        "free movement"
-      ],
-      "answer": "fair hearing"
+      "question": "If the third member of a homologous series is C₃H₈, the fifth member is",
+      "options": ["C₄H₈", "C₅H₉", "C₅H₁₀", "C₅H₁₂"],
+      "answer": "C₅H₁₂"
     },
     {
       "number": 39,
-      "question": "The right to defend oneself protects individuals from being ___",
-      "options": [
-        "employed without pay",
-        "punished or judged unfairly",
-        "given a fair trial",
-        "promoted without qualification"
-      ],
-      "answer": "punished or judged unfairly"
+      "question": "The following glass wares are used to measure the volume of liquid except",
+      "options": ["graduated beaker", "pipette", "test tube", "burette"],
+      "answer": "test tube"
     },
     {
       "number": 40,
-      "question": "Which of the following is an important aspect of defending oneself?",
-      "options": [
-        "Presenting evidence and witnesses",
-        "Refusing to appear in court",
-        "Avoiding questions from the judge",
-        "Hiding from the police"
-      ],
-      "answer": "Presenting evidence and witnesses"
+      "question": "The colour of methyl orange in a basic solution is",
+      "options": ["pink", "yellow", "purple", "colourless"],
+      "answer": "yellow"
     },
     {
       "number": 41,
-      "question": "An accused person can defend himself in court through ___",
-      "options": [
-        "a lawyer or legal representative",
-        "political party members",
-        "family elders only",
-        "social media supporters"
-      ],
-      "answer": "a lawyer or legal representative"
+      "question": "The colour of phenolphthalein indicator in alkaline solution at end-point of an acid-base titration is",
+      "options": ["colourless", "orange", "yellow", "pink"],
+      "answer": "pink"
     },
     {
       "number": 42,
-      "question": "One major avenue to defend oneself in a democratic society is the ___",
-      "options": [
-        "court of law",
-        "village square",
-        "police station cell",
-        "traditional dance group"
-      ],
-      "answer": "court of law"
+      "question": "Which of the following indicators would be suitable for titration of potassium hydroxide (KOH) and ethanoic (acetic) acid (CH₃COOH)?",
+      "options": ["methyl red", "methyl orange", "phenolphthalein", "bromothymol blue"],
+      "answer": "phenolphthalein"
     },
     {
       "number": 43,
-      "question": "The opportunity to defend oneself is guaranteed under the ___",
+      "question": "A weak acid is one which",
       "options": [
-        "nation’s criminal code only",
-        "constitution of the country",
-        "president’s executive order",
-        "government policy paper"
+        "is not corrosive",
+        "completely ionizes in water",
+        "does not produce salt with alkali",
+        "slightly ionizes in water"
       ],
-      "answer": "constitution of the country"
+      "answer": "slightly ionizes in water"
     },
     {
       "number": 44,
-      "question": "When a person accused of a crime is allowed to state his side of the story, it shows ___",
-      "options": [
-        "denial of rights",
-        "freedom of expression",
-        "fair hearing and justice",
-        "political favoritism"
-      ],
-      "answer": "fair hearing and justice"
+      "question": "Which of the following is not an acid anhydride?",
+      "options": ["P₂O₅", "NO₂", "SO₂", "CO"],
+      "answer": "CO"
     },
     {
       "number": 45,
-      "question": "A person who feels wrongly accused can seek redress in the ___",
-      "options": [
-        "police station",
-        "law court",
-        "marketplace",
-        "palace of chiefs"
-      ],
-      "answer": "law court"
+      "question": "An acid is a substance which in the presence of water produces",
+      "options": ["salts", "oxygen", "hydroxonium ions (H₃O⁺)", "effervescence"],
+      "answer": "hydroxonium ions (H₃O⁺)"
     },
     {
       "number": 46,
-      "question": "The main purpose of allowing people to defend themselves is to ___",
-      "options": [
-        "punish them harshly",
-        "ensure fairness and prevent injustice",
-        "waste the court’s time",
-        "promote corruption"
-      ],
-      "answer": "ensure fairness and prevent injustice"
+      "question": "Which of the following acids would readily react with CaCO₃ to liberate CO₂?",
+      "options": ["CH₃COOH", "H₂SO₄", "H₂SO₃", "HNO₃"],
+      "answer": "H₂SO₄"
     },
     {
       "number": 47,
-      "question": "Denying an accused person the opportunity to defend himself is a violation of ___",
-      "options": [
-        "human rights",
-        "family values",
-        "traditional beliefs",
-        "social customs"
-      ],
-      "answer": "human rights"
+      "question": "Which of the following species is always present in acidified water?",
+      "options": ["NH₄⁺", "O²⁻", "HCl", "H₃O⁺"],
+      "answer": "H₃O⁺"
     },
     {
       "number": 48,
-      "question": "Apart from the law courts, one can defend oneself before a ___",
-      "options": [
-        "disciplinary committee",
-        "traditional marriage council",
-        "political rally",
-        "religious gathering"
-      ],
-      "answer": "disciplinary committee"
+      "question": "The number of replaceable hydrogen atoms in one molecule of an acid indicates its",
+      "options": ["basicity", "acidity", "alkalinity", "reactivity"],
+      "answer": "acidity"
     },
     {
       "number": 49,
-      "question": "The right to fair hearing is essential because it ___",
-      "options": [
-        "allows people to lie freely",
-        "prevents innocent people from being punished unjustly",
-        "encourages bribery and corruption",
-        "supports dictatorship"
-      ],
-      "answer": "prevents innocent people from being punished unjustly"
+      "question": "Alkanes react with the halogens mainly by",
+      "options": ["oxidation", "polymerization", "addition", "substitution"],
+      "answer": "substitution"
     },
     {
       "number": 50,
-      "question": "The opportunity to defend oneself helps to maintain ___ in society.",
-      "options": [
-        "injustice and corruption",
-        "peace, justice, and rule of law",
-        "oppression and fear",
-        "social inequality"
-      ],
-      "answer": "peace, justice, and rule of law"
+      "question": "One of the products of complete combustion of pentane (C₅H₁₂) in excess air is",
+      "options": ["pentanol", "pentene", "nitrogen(II) oxide (NO)", "carbon(IV) oxide (CO₂)"],
+      "answer": "carbon(IV) oxide (CO₂)"
     }
   ]
-
