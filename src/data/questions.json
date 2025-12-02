@@ -203,12 +203,12 @@
       "number": 26,
       "question": "A primary alkanol has a molecular mass of 60. What is the structural formula of the compound? [H = 1.0, C = 12.0, O = 16.0]",
       "options": [
-        "CH₃CH₂OH (molar mass 46) — not correct",
-        "CH₃CH₂CH₂OH (C₃H₇OH) — structural formula: CH₃–CH₂–CH₂–OH",
-        "CH₃OH (molar mass 32) — not correct",
-        "C₄H₉OH (molar mass > 60) — not correct"
+        "CH₃CH₂OH",
+        "CH₃CH₂CH₂OH",
+        "CH₃OH",
+        "C₄H₉OH"
       ],
-      "answer": "CH₃–CH₂–CH₂–OH"
+      "answer": "CH₃CH₂CH₂OH"
     },
     {
       "number": 27,
