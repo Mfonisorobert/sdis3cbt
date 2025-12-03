@@ -1,377 +1,52 @@
-  [
-    {
-      "number": 1,
-      "question": "The following are uses of sulphur except",
-      "options": [
-        "manufacture of tetraoxosulphate(VI) acid (H₂SO₄)",
-        "prevention of the growth of fungi",
-        "vulcanization of rubber",
-        "coating of steel to prevent rusting"
-      ],
-      "answer": "coating of steel to prevent rusting"
-    },
-    {
-      "number": 2,
-      "question": "Which of the following elements can form more than one acidic oxide?",
-      "options": ["hydrogen", "sulphur", "carbon", "aluminium"],
-      "answer": "sulphur"
-    },
-    {
-      "number": 3,
-      "question": "If a metal R forms a compound with the formula R(NO₃)₂ the formula of its tetraoxosulphate(VI) is",
-      "options": ["R(SO₄)₂", "RSO₄", "R₂SO₄", "R₂(SO₄)₃"],
-      "answer": "R(SO₄)₂"
-    },
-    {
-      "number": 4,
-      "question": "If sulphur is dissolved in carbon(IV) sulphide (CS₂) and the solution is allowed to evaporate, the allotrope of sulphur formed is",
-      "options": ["plastic sulphur", "amorphous sulphur", "rhombic sulphur", "monoclinic sulphur"],
-      "answer": "rhombic sulphur"
-    },
-    {
-      "number": 5,
-      "question": "Trioxosulphate(IV) acid (H₂SO₃) is not stored for a long period because it",
-      "options": [
-        "is a weak dibasic acid",
-        "has bleaching properties",
-        "is unstable and easily decomposed",
-        "smells strongly of sulphur(IV) oxide (SO₂)"
-      ],
-      "answer": "is unstable and easily decomposed"
-    },
-    {
-      "number": 6,
-      "question": "Sulphur burns in air to form",
-      "options": ["an acidic oxide (SO₂)", "a basic oxide", "an amphoteric oxide", "a mixed oxide"],
-      "answer": "an acidic oxide (SO₂)"
-    },
-    {
-      "number": 7,
-      "question": "A positive brown ring test indicates the presence of",
-      "options": ["NO₃⁻", "Fe³⁺", "SO₃²⁻", "Cu⁺"],
-      "answer": "NO₃⁻"
-    },
-    {
-      "number": 8,
-      "question": "Which of the following is a neutral oxide?",
-      "options": ["nitrogen(IV) oxide (NO₂)", "carbon(IV) oxide (CO₂)", "sulphur(VI) oxide (SO₃)", "nitrous oxide (N₂O)"],
-      "answer": "nitrous oxide (N₂O)"
-    },
-    {
-      "number": 9,
-      "question": "Nitrogen is prepared on a large scale by the",
-      "options": [
-        "fractional distillation of liquid air",
-        "decomposition of ammonium dioxonitrate(III) (NH₄NO₂)",
-        "electrolysis of brine",
-        "Haber process"
-      ],
-      "answer": "fractional distillation of liquid air"
-    },
-    {
-      "number": 10,
-      "question": "Ammonia gas (NH₃) is suitable for performing the 'fountain' experiment because the gas is",
-      "options": ["colourless", "a cooling agent", "alkaline to litmus", "very soluble in water"],
-      "answer": "very soluble in water"
-    },
-    {
-      "number": 11,
-      "question": "Which of the following when heated strongly in air will leave a metal as residue?",
-      "options": [
-        "sodium trioxonitrate(V) (NaNO₃)",
-        "potassium trioxonitrate(V) (KNO₃)",
-        "silver trioxonitrate(V) (AgNO₃)",
-        "lead(II) trioxonitrate(V) (Pb(NO₃)₂)"
-      ],
-      "answer": "lead(II) trioxonitrate(V) (Pb(NO₃)₂)"
-    },
-    {
-      "number": 12,
-      "question": "Producer gas is a mixture of",
-      "options": [
-        "oxygen and hydrogen",
-        "hydrogen and nitrogen",
-        "nitrogen and oxygen",
-        "nitrogen and carbon(II) oxide (CO)"
-      ],
-      "answer": "nitrogen and carbon(II) oxide (CO)"
-    },
-    {
-      "number": 13,
-      "question": "Which of the following explains why trioxonitrate(V) acid (HNO₃) is not used for preparing hydrogen from metals?",
-      "options": [
-        "it is volatile",
-        "it is strongly oxidizing",
-        "it forms a layer of oxide on the metal",
-        "it renders the metals passive"
-      ],
-      "answer": "it is strongly oxidizing"
-    },
-    {
-      "number": 14,
-      "question": "Which of the following is normally used for drying ammonia gas (NH₃)?",
-      "options": [
-        "concentrated tetraoxosulphate(VI) acid (H₂SO₄)",
-        "calcium oxide (CaO)",
-        "anhydrous calcium chloride (CaCl₂)",
-        "phosphorus(V) oxide (P₂O₅)"
-      ],
-      "answer": "calcium oxide (CaO)"
-    },
-    {
-      "number": 15,
-      "question": "When aqueous ammonia is added to one of the following solutions, a white precipitate which dissolves in excess ammonia is formed. Identify the solution.",
-      "options": [
-        "ZnCl₂(aq)  → forms white Zn(OH)₂ which dissolves in excess NH₃",
-        "Pb(NO₃)₂(aq)",
-        "CuSO₄(aq)",
-        "FeSO₄(aq)"
-      ],
-      "answer": "ZnCl₂(aq)  → forms white Zn(OH)₂ which dissolves in excess NH₃"
-    },
-    {
-      "number": 16,
-      "question": "The gaseous product formed when ammonia is passed over heated copper(II) oxide is",
-      "options": ["oxygen", "nitrogen", "hydrogen", "nitric oxide (NO)"],
-      "answer": "nitrogen"
-    },
-    {
-      "number": 17,
-      "question": "Which of the following will produce nitrogen(IV) oxide (NO₂) and oxygen when heated strongly? (i) NaNO₃ (ii) KNO₃ (iii) Mg(NO₃)₂ (iv) Pb(NO₃)₂",
-      "options": ["IV only", "I & II", "III & IV", "I, II & III"],
-      "answer": "I, II & III"
-    },
-    {
-      "number": 18,
-      "question": "Which of the following is/are correct of the ammonia molecule (NH₃)? (i) It has a tetrahedral shape (ii) It has a lone pair of electrons (iii) The H–N–H bond angle is 180° (iv) It is non-polar",
-      "options": ["IV only", "I & II", "III & IV", "I, II, III & IV"],
-      "answer": "I & II"
-    },
-    {
-      "number": 19,
-      "question": "Which of the following molecules has a triple bond in its structure?",
-      "options": ["CH₄", "NH₃", "N₂", "O₂"],
-      "answer": "N₂"
-    },
-    {
-      "number": 20,
-      "question": "In which of the following compound(s) will heat be absorbed on adding water? (i) KNO₃ (ii) concentrated H₂SO₄ (iii) NH₄Cl",
-      "options": ["I only", "III only", "I and III only", "II and III only"],
-      "answer": "I and III only"
-    },
-    {
-      "number": 21,
-      "question": "Which of the following gases is highly soluble in water at room temperature?",
-      "options": ["ammonia (NH₃)", "carbon(IV) oxide (CO₂)", "chlorine (Cl₂)", "nitrogen (N₂)"],
-      "answer": "ammonia (NH₃)"
-    },
-    {
-      "number": 22,
-      "question": "Which of the following gases is alkaline?",
-      "options": ["NO₂", "CO₂", "NH₃", "N₂O"],
-      "answer": "NH₃"
-    },
-    {
-      "number": 23,
-      "question": "Why are H₂SO₄ and CaCl₂ not suitable for drying ammonia gas (NH₃)? They",
-      "options": ["are corrosive", "are poisonous", "react with the gas", "pollute the gas"],
-      "answer": "react with the gas"
-    },
-    {
-      "number": 24,
-      "question": "Which of the following factors characterize members of the same homologous series?",
-      "options": [
-        "the chemical properties change gradually throughout the series",
-        "physical properties of members are similar",
-        "they have the same molecular formula",
-        "successive members differ by CH₂"
-      ],
-      "answer": "successive members differ by CH₂"
-    },
-    {
-      "number": 25,
-      "question": "The IUPAC name for the compound ClCH₂CH₂OH is",
-      "options": [
-        "1-chloropropanol",
-        "2-chloropropanol",
-        "1-chloroethanol",
-        "2-chloroethanol"
-      ],
-      "answer": "2-chloroethanol"
-    },
-    {
-      "number": 26,
-      "question": "A primary alkanol has a molecular mass of 60. What is the structural formula of the compound? [H = 1.0, C = 12.0, O = 16.0]",
-      "options": [
-        "CH₃CH₂OH",
-        "CH₃CH₂CH₂OH",
-        "CH₃OH",
-        "C₄H₉OH"
-      ],
-      "answer": "CH₃CH₂CH₂OH"
-    },
-    {
-      "number": 27,
-      "question": "Which of the following pairs of compounds belongs to the same homologous series?",
-      "options": [
-        "C₃H₈ and C₃H₆",
-        "C₄H₁₀ and C₃H₈C₃H₈",
-        "C₂H₄ and C₄H₁₀",
-        "C₂H₆ and C₄H₁₀"
-      ],
-      "answer": "C₂H₆ and C₄H₁₀"
-    },
-    {
-      "number": 28,
-      "question": "Consider the reaction represented by the equation: H–C≡C–H  + H₂ → H–CH=CH–H. H₂X and H₂Y respectively are",
-      "options": [
-        "ethene and ethane",
-        "ethane and ethene",
-        "ethyne and ethene",
-        "ethene and propene"
-      ],
-      "answer": "ethyne and ethene"
-    },
-    {
-      "number": 29,
-      "question": "Which of the following organic compounds could be represented by the empirical formula CH₂O?",
-      "options": ["ethanal (C₂H₄O)", "ethane (C₂H₆)", "ethanol (C₂H₆O)", "ethanoic acid (CH₃COOH)"],
-      "answer": "ethanoic acid (CH₃COOH)"
-    },
-    {
-      "number": 30,
-      "question": "How many isomers has C₃H₆Cl₂?",
-      "options": ["2", "3", "4", "5"],
-      "answer": "4"
-    },
-    {
-      "number": 31,
-      "question": "Which of the following reactions is common to all hydrocarbons?",
-      "options": ["combustion", "addition", "polymerization", "condensation"],
-      "answer": "combustion"
-    },
-    {
-      "number": 32,
-      "question": "Hydrocarbons which react with ammoniacal copper(I) chloride solution conform to the general molecular formula",
-      "options": ["CₙHₙ", "CₙH₂ₙ", "CₙH₂ₙ₊₂", "CₙH₂ₙ₋₂"],
-      "answer": "CₙH₂ₙ₋₂"
-    },
-    {
-      "number": 33,
-      "question": "What is the IUPAC name of the compound with the following structure? (structure shown as text)\n\n    H\n\nH–C–   C= C–H\n      |       \n      H      H–C–H\n             |\n             H",
-      "options": [
-        "2-methylbutene",
-        "2-methylprop-2-ene",
-        "2-methylprop-1-ene",
-        "but-1-ene"
-      ],
-      "answer": "2-methylprop-1-ene"
-    },
-    {
-      "number": 34,
-      "question": "A gaseous unsaturated hydrocarbon (I) usually undergoes addition reactions (II) consists of at least one multiple bond (III) decolorizes acidified KMnO₄ solution (IV) can be polymerized under suitable conditions",
-      "options": ["IV only", "I & III", "III & IV", "I, II, III & IV"],
-      "answer": "I, II, III & IV"
-    },
-    {
-      "number": 35,
-      "question": "Which of the following hydrocarbons is unsaturated?",
-      "options": ["ethane (C₂H₆)", "benzene (C₆H₆)", "propane (C₃H₈)", "2-methylbutane (C₅H₁₂)"],
-      "answer": "benzene (C₆H₆)"
-    },
-    {
-      "number": 36,
-      "question": "What is the relationship between the compounds represented by the following structures? (question indicates two structural forms — answer choices:)",
-      "options": ["Allotropes", "dimers", "polymers", "geometric isomers"],
-      "answer": "geometric isomers"
-    },
-    {
-      "number": 37,
-      "question": "How many isomers can be obtained from C₄H₁₀?",
-      "options": ["0", "1", "2", "3"],
-      "answer": "2"
-    },
-    {
-      "number": 38,
-      "question": "If the third member of a homologous series is C₃H₈, the fifth member is",
-      "options": ["C₄H₈", "C₅H₉", "C₅H₁₀", "C₅H₁₂"],
-      "answer": "C₅H₁₂"
-    },
-    {
-      "number": 39,
-      "question": "The following glass wares are used to measure the volume of liquid except",
-      "options": ["graduated beaker", "pipette", "test tube", "burette"],
-      "answer": "test tube"
-    },
-    {
-      "number": 40,
-      "question": "The colour of methyl orange in a basic solution is",
-      "options": ["pink", "yellow", "purple", "colourless"],
-      "answer": "yellow"
-    },
-    {
-      "number": 41,
-      "question": "The colour of phenolphthalein indicator in alkaline solution at end-point of an acid-base titration is",
-      "options": ["colourless", "orange", "yellow", "pink"],
-      "answer": "pink"
-    },
-    {
-      "number": 42,
-      "question": "Which of the following indicators would be suitable for titration of potassium hydroxide (KOH) and ethanoic (acetic) acid (CH₃COOH)?",
-      "options": ["methyl red", "methyl orange", "phenolphthalein", "bromothymol blue"],
-      "answer": "phenolphthalein"
-    },
-    {
-      "number": 43,
-      "question": "A weak acid is one which",
-      "options": [
-        "is not corrosive",
-        "completely ionizes in water",
-        "does not produce salt with alkali",
-        "slightly ionizes in water"
-      ],
-      "answer": "slightly ionizes in water"
-    },
-    {
-      "number": 44,
-      "question": "Which of the following is not an acid anhydride?",
-      "options": ["P₂O₅", "NO₂", "SO₂", "CO"],
-      "answer": "CO"
-    },
-    {
-      "number": 45,
-      "question": "An acid is a substance which in the presence of water produces",
-      "options": ["salts", "oxygen", "hydroxonium ions (H₃O⁺)", "effervescence"],
-      "answer": "hydroxonium ions (H₃O⁺)"
-    },
-    {
-      "number": 46,
-      "question": "Which of the following acids would readily react with CaCO₃ to liberate CO₂?",
-      "options": ["CH₃COOH", "H₂SO₄", "H₂SO₃", "HNO₃"],
-      "answer": "H₂SO₄"
-    },
-    {
-      "number": 47,
-      "question": "Which of the following species is always present in acidified water?",
-      "options": ["NH₄⁺", "O²⁻", "HCl", "H₃O⁺"],
-      "answer": "H₃O⁺"
-    },
-    {
-      "number": 48,
-      "question": "The number of replaceable hydrogen atoms in one molecule of an acid indicates its",
-      "options": ["basicity", "acidity", "alkalinity", "reactivity"],
-      "answer": "acidity"
-    },
-    {
-      "number": 49,
-      "question": "Alkanes react with the halogens mainly by",
-      "options": ["oxidation", "polymerization", "addition", "substitution"],
-      "answer": "substitution"
-    },
-    {
-      "number": 50,
-      "question": "One of the products of complete combustion of pentane (C₅H₁₂) in excess air is",
-      "options": ["pentanol", "pentene", "nitrogen(II) oxide (NO)", "carbon(IV) oxide (CO₂)"],
-      "answer": "carbon(IV) oxide (CO₂)"
-    }
+ [
+    {"number":1,"question":"311 pụtara","options":["narị atọ na iri atọ na otụ","narị atọ na iri na otu","narị atọ na otu","narị atọ na atọ"],"answer":"narị atọ na iri na otu"},
+    {"number":2,"question":"Mmadụ ime ihe a gwara ya mee bụ –","options":["ngwaa","ndebeiwi","ihe omume","nrubeisi"],"answer":"nrubeisi"},
+    {"number":3,"question":"Nkejịasụsụ na-eme ka ahịrịokwu nwee nghọta zuru oke bụ –","options":["Ngwaa","mkpọaha","nkwuwa","nnọchiaha"],"answer":"Ngwaa"},
+    {"number":4,"question":"Iji mee ka ahapụ ịkpọ aha ugboro ugboro n’ahịrịokwu, nkejiasụsụ a ga-eji anọchite ya bụ –","options":["njikọ","nnochiaha","ngwaa","nkwuwa"],"answer":"nnochiaha"},
+    {"number":5,"question":"Nkọwaaha na-akọwa maka aha ebe nkwuwa na-ekwu maka","options":["mbuuzọ","Nnọchịaha","Nkwuwa ke ebe","Ngwaa"],"answer":"Nkwuwa ke ebe"},
+    {"number":6,"question":"Nnọchiaha na-anọchi __________ n’ahịrịokwu.","options":["aha","ngwaa","njikọ","nkwuwa"],"answer":"aha"},
+    {"number":7,"question":"Nwanyị ọcha ahụ bịara taa. Kedu okwu na-arụ ka nkọwaaha n’ahịrokwu a","options":["ọcha","nwanyị","bịara","ahụ"],"answer":"ọcha"},
+    {"number":8,"question":"Otu narị na iri itolu na’ asaa pụtara","options":["107","197","109","179"],"answer":"107"},
+    {"number":9,"question":"Otu ọmụmaatụ agwa nrubeisi bụ","options":["ịlụ ọgụ","ịkpari mmadụ","ịtụ asị","ịgara nne na nna anyi ọzi"],"answer":"ịgara nne na nna anyi ọzi"},
+    {"number":10,"question":"_____bụ ọmụmaatụ aha uche","options":["Okeke","Ihunanya","Oche","igwe ewu"],"answer":"Ihunanya"},
+    {"number":11,"question":"Ndebeiwu bu _____","options":["Mmadụ imebi iwu","idebe iwu n'ụlọ elu","irube isi n'ụsọrọ iwu","ịlụ ọgụ"],"answer":"irube isi n'ụsọrọ iwu"},
+    {"number":12,"question":"Iwu ụlọakwụkwọ megidere _____","options":["igụkorita akwụkwọ","ịza klaasi","ịgara onye nkuzi ozi","ịghọ aghụghọ ule"],"answer":"ịghọ aghụghọ ule"},
+    {"number":13,"question":"Ọtụ narị na ise pụtara","options":["105","115","155","151"],"answer":"105"},
+    {"number":14,"question":"Narị abụọ na iri asatọ na isii pụtara","options":["286","268","216","206"],"answer":"286"},
+    {"number":15,"question":"Akụkọ ifo nwere ụsọrọ nhazi _____","options":["abụọ","ise","atọ","anọ"],"answer":"atọ"},
+    {"number":16,"question":"Ọtụ n'ime ndị a esoghị n'ụsọrọ nhazi akụkọ ifo","options":["Mmalite akụkọ","Ọzị ekele","etiti akụkọ","Mmechi"],"answer":"Ọzị ekele"},
+    {"number":17,"question":"Akụkọ ifo na-akpa obi ọma, bụ otụ n'ime ụru _____ bara.","options":["ejije","akụkọ ifo","abụ","nkita"],"answer":"akụkọ ifo"},
+    {"number":18,"question":"Ịsọpụrụ ma rụbekwa isi n'ụsọrọ iwu ndị e wepụtara bụ _____","options":["Ndebeiwu","nnupụisị","nrubeisi","mmebiwu"],"answer":"nrubeisi"},
+    {"number":19,"question":"Onye anaghị erube isi ka a na-akpọ _____","options":["ezigbo mmadụ","Dike","ọkachamara","onye nnupụ isi"],"answer":"onye nnupụ isi"},
+    {"number":20,"question":"Nrubeisi na-esote _____","options":["ntụzịaka","iti mkpu","ichi ọchị","ịbe akwa"],"answer":"ntụzịaka"},
+    {"number":21,"question":"Akpa ọhụrụ ahụ nọ n'elu oche. Okwu a kanyere ihe n'akpụru n'egosipụta nkejiasụsụ _____","options":["ngwaa","mbuuzo","annochiaha","nkwuwa"],"answer":"mbuuzo"},
+    {"number":22,"question":"Adaku mara mma. N'ahiriokwu a \"Adaku\" bu______","options":["ahaigwe","ahaizugbe","ahaukwu","ahaaka"],"answer":"ahaaka"},
+    {"number":23,"question":"Osinachi na Nneka bu umunne. N'ahiriokwu a \"na\" na-arụ ọrụ ka_____","options":["ngwaa","njiko","mkpoaha","noochiaha"],"answer":"njiko"},
+    {"number":24,"question":"Uzondụ dere leta a ga-enye onyeisi ọrụ. \"Dere\" n'ebe a bu______","options":["ngwaa ngwazu","ngwaa ngwape","ngwaa niile","ngwa mgbagwo"],"answer":"ngwaa ngwape"},
+    {"number":25,"question":"Anyị zutara mmanya nye ndi obia. Okwu a kanyere ihe n'okpuru bụ","options":["ngwaa","mbuuzo","nnochiaha","mkpọaha"],"answer":"nnochiaha"},
+    {"number":26,"question":"A na-enwekari ala mmadụ, ala mmụọ, na ala ụmụanumanu n’akụkọ","options":["njem","agha","okike","Ifo"],"answer":"okike"},
+    {"number":27,"question":"Iri itolu na otu putara","options":["91","109","99","19"],"answer":"109"},
+    {"number":28,"question":"Nwoke ojii ahụ anwuọla. Okwu a kanyere ihe n'okpuru putara","options":["nnochiaha","nkọwaaha","ngwaa","mbuuzo"],"answer":"nkọwaaha"},
+    {"number":29,"question":"Chimoo!!! Nne m alọtala ahịa. Okwu akanyere ihe n'okpuru bụ","options":["ntimkpu","ngwaa","nkwọaaha","mbuuzo"],"answer":"ntimkpu"},
+    {"number":30,"question":"Aha anaghị ahụ anya nke e ji uche amata ya bu______","options":["ahaaka","ahaizugbe","ahauche","ahaigwe"],"answer":"ahauche"},
+    {"number":31,"question":"300 pụtara","options":["nari abụọ","nari atọ","nari anọ","nari ise"],"answer":"nari atọ"},
+    {"number":32,"question":"727 putara","options":["nari asaa na iri abụọ na asaa","nari abụọ na iri asaa","nari asaa na iri asaa","narị asaa na iri na asaa"],"answer":"nari asaa na iri abụọ na asaa"},
+    {"number":33,"question":"_____bụ aha ihe makọrọ amakọ","options":["ahauche","ahaaka","ahaigwe","ahaizugbe"],"answer":"ahaigwe"},
+    {"number":34,"question":"Nke na-esoghi n’udi ngwaa e nwere bu —","options":["ngwaa ngwape","ngwaa ngwazu","ngwaa mfe","ngwaa nkọwa"],"answer":"ngwaa nkọwa"},
+    {"number":35,"question":"______bụ akụkọ a rọrọ arọ","options":["akụkọ ifo","akụkọ njem","akụkọ agha","akụkọ ejije"],"answer":"akụkọ ifo"},
+    {"number":36,"question":"Mbe na Ezi bụ ọmụmaatụ akụkọ_______","options":["njem","ifo","ejije","agha"],"answer":"ifo"},
+    {"number":37,"question":"Otu n'ime ndị a esoghi na ụdị nkọwaha e nwere","options":["Nkọwaha keaha","Nkọwaha kenruaka","nkọwaaha keuwa","nkowaaha kennwe"],"answer":"nkọwaaha keuwa"},
+    {"number":38,"question":"Ji na ede. \"Na\" n'ahịrịokwu a na-arụ ọrụ dika","options":["njikọ","ngwaa","mkpọaha","mbuuzo"],"answer":"njikọ"},
+    {"number":39,"question":"Nkejiasụsụ e nwere di _________","options":["abụọ","atọ","asatọ","ise"],"answer":"asatọ"},
+    {"number":40,"question":"Otu n'ime ndị a bụ njirimara akụkọ ifo","options":["ọ na-esi n'aka fere n'aka","edeturu ya edetu","a na-ake ya n'ụtụtụ","ọ bụ agụmagụ ederede"],"answer":"ọ na-esi n'aka fere n'aka"},
+    {"number":41,"question":"_____bu akụkọ a na-akọ, a na-agụ egwu","options":["akụkọ njem","akụkọ n'egwu","akụkọ ifo","akụkọ agha"],"answer":"akụkọ n'egwu"},
+    {"number":42,"question":"Onye na-rubeisi, na-edebeiwu na-enwe —","options":["ọgologo ndu","onwụ ike","ntaramaahụhụ","iwe"],"answer":"ọgologo ndu"},
+    {"number":43,"question":"Ihu na anyị adaghi iwu ule bu agwa ______","options":["nnyụpu isi","ikpọ asị","ndebe iwu","egwuregwu"],"answer":"ndebe iwu"},
+    {"number":44,"question":"29 pụtara","options":["iri na abụọ","iri abụọ na itolu","iri na itolu","iri itolu na abụọ"],"answer":"iri abụọ na itolu"},
+    {"number":45,"question":"548 pụtara","options":["narị ise na iri anọ na asatọ","narị ise na asatọ","narị ise na iri na asatọ","narị ise na iri asatọ na anọ"],"answer":"narị ise na iri anọ na asatọ"},
+    {"number":46,"question":"Otu n’ime ndi a esoghi na nkeji asụsụ","options":["edemede","nnochiaha","ngwaa","nkọwaaha"],"answer":"ngwaa"},
+    {"number":47,"question":"Ndị nkụzi bịara akwụkwọ mana ha akụzighị ihe, ọkwụ akanyere ihe okwu akanyere ihe n’okpuru na-arụ ọrụ dika ____","options":["ngwaa","mkpọaha","nkwụwa","njikọ"],"answer":"njikọ"},
+    {"number":48,"question":"Nkechi dere ihe ahụ ngwa ngwa ọ lọtara ahia bụ","options":["ịsị ngwaa","mbụụzọ","ngwaa","nkwụwa"],"answer":"mbụụzọ"},
+    {"number":49,"question":"Okwu na-arụ ọrụ dika mbụụzọ n'asụsụ Igbo bụ____","options":["ga","na","ma","ka"],"answer":"na"},
+    {"number":50,"question":"Otu ọghọm dị na nnupu isị bụ_____","options":["ịnata onyinye","ọ na-enye aha ọma","ọ na-ebuta abụmọnu","ị nata ngozi"],"answer":"ọ na-ebuta abụmọnu"}
   ]
