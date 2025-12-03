@@ -44,9 +44,9 @@
     {"number":43,"question":"Ihu na anyị adaghi iwu ule bu agwa ______","options":["nnyụpu isi","ikpọ asị","ndebe iwu","egwuregwu"],"answer":"ndebe iwu"},
     {"number":44,"question":"29 pụtara","options":["iri na abụọ","iri abụọ na itolu","iri na itolu","iri itolu na abụọ"],"answer":"iri abụọ na itolu"},
     {"number":45,"question":"548 pụtara","options":["narị ise na iri anọ na asatọ","narị ise na asatọ","narị ise na iri na asatọ","narị ise na iri asatọ na anọ"],"answer":"narị ise na iri anọ na asatọ"},
-    {"number":46,"question":"Otu n’ime ndi a esoghi na nkeji asụsụ","options":["edemede","nnochiaha","ngwaa","nkọwaaha"],"answer":"ngwaa"},
+    {"number":46,"question":"Otu n’ime ndi a esoghi na nkeji asụsụ","options":["edemede","nnochiaha","ngwaa","nkọwaaha"],"answer":"edemede"},
     {"number":47,"question":"Ndị nkụzi bịara akwụkwọ mana ha akụzighị ihe, ọkwụ akanyere ihe okwu akanyere ihe n’okpuru na-arụ ọrụ dika ____","options":["ngwaa","mkpọaha","nkwụwa","njikọ"],"answer":"njikọ"},
-    {"number":48,"question":"Nkechi dere ihe ahụ ngwa ngwa ọ lọtara ahia bụ","options":["ịsị ngwaa","mbụụzọ","ngwaa","nkwụwa"],"answer":"mbụụzọ"},
+    {"number":48,"question":"Nkechi dere ihe ahụ ngwa ngwa ọ lọtara ahia bụ","options":["ịsị ngwaa","mbụụzọ","ngwaa","nkwụwa"],"answer":"nkwụwa"},
     {"number":49,"question":"Okwu na-arụ ọrụ dika mbụụzọ n'asụsụ Igbo bụ____","options":["ga","na","ma","ka"],"answer":"na"},
     {"number":50,"question":"Otu ọghọm dị na nnupu isị bụ_____","options":["ịnata onyinye","ọ na-enye aha ọma","ọ na-ebuta abụmọnu","ị nata ngozi"],"answer":"ọ na-ebuta abụmọnu"}
   ]
