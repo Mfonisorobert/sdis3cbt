@@ -7,7 +7,7 @@
     {"number":6,"question":"A voltage regulator helps to:","options":["Boost light","Control brightness","Maintain constant voltage","Reduce resistance"],"answer":"Maintain constant voltage"},
     {"number":7,"question":"The component that breaks or completes a circuit is:","options":["Resistor","Capacitor","Switch","Battery"],"answer":"Switch"},
     {"number":8,"question":"Breadboards do not require:","options":["Power supply","Soldering","Jumper wires","Connections"],"answer":"Soldering"},
-    {"number":9,"question":"The process of inserting components into a breadboard is called:","options":["Programming","Mounting","Wiring","Soldering"],"answer":"Wiring"},
+    {"number":9,"question":"The process of inserting components into a breadboard is called:","options":["Programming","Mounting","Wiring","Soldering"],"answer":"Mounting"},
     {"number":10,"question":"What happens if an LED is connected in reverse?","options":["It works brighter","It explodes","It does not light","It stores energy"],"answer":"It does not light"},
     {"number":11,"question":"A potentiometer is also known as:","options":["Fixed resistor","Variable resistor","LDR","Switch"],"answer":"Variable resistor"},
     {"number":12,"question":"Which tool is often used to test connections on a breadboard?","options":["Soldering iron","Screwdriver","Multimeter","Barometer"],"answer":"Multimeter"},
